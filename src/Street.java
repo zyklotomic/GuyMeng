@@ -2,6 +2,7 @@ public class Street {
     private String englishName;
     private String cantoneseName;
     private DistrictCode district;
+    private Language language;
 
     public Street() {
         englishName = null;
@@ -19,6 +20,14 @@ public class Street {
 
     public void setDistrict(DistrictCode district) {
         this.district = district;
+    }
+
+    public void setLanguage(Language language) {
+        this.language = language;
+    }
+
+    public Language getLanguage() {
+        return language;
     }
 
     public String getEnglishName() {
