@@ -1,12 +1,14 @@
 import org.xml.sax.Attributes;
 import org.xml.sax.SAXException;
 import org.xml.sax.helpers.DefaultHandler;
-
 import javax.xml.parsers.SAXParser;
 import javax.xml.parsers.SAXParserFactory;
 import java.util.LinkedList;
+import java.util.Arrays;
+import java.util.Scanner;
 
 public class StreetAnalysis {
+    static private LinkedList<Street> streets = new LinkedList<>();
 
     public static void main(String[] args) {
         try {
@@ -19,7 +21,6 @@ public class StreetAnalysis {
                 boolean chi = false;
                 boolean district = false;
                 boolean language = false;
-                LinkedList<Street> streets = new LinkedList<>();
 
                 @Override
                 public void startDocument() throws SAXException {
@@ -52,71 +53,72 @@ public class StreetAnalysis {
                 @Override
                 public void characters(char[] ch, int start, int length) throws SAXException {
                     super.characters(ch, start, length);
+                    String text = String.valueOf(Arrays.copyOfRange(ch, start, start + length));
                     if (row) {
                         streets.add(new Street());
                         row = false;
                     } else if (eng) {
-                        streets.getLast().setEnglishName(String.valueOf(ch));
+                        streets.getLast().setEnglishName(text);
                         eng = false;
                     } else if (chi) {
-                        streets.getLast().setCantoneseName(String.valueOf(ch));
+                        streets.getLast().setCantoneseName(text);
                         chi = false;
                     } else if (district) {
                         DistrictCode cur;
-                        switch (String.valueOf(ch)) {
+                        switch (text) {
                             case "CandW":
-                                cur = CandW;
+                                cur = DistrictCode.CandW;
                                 break;
                             case "WC":
-                                cur = WC;
+                                cur = DistrictCode.WC;
                                 break;
                             case "E":
-                                cur = E;
+                                cur = DistrictCode.E;
                                 break;
                             case "S":
-                                cur = S;
+                                cur = DistrictCode.S;
                                 break;
                             case "YTM":
-                                cur = YTM;
+                                cur = DistrictCode.YTM;
                                 break;
                             case "SSP":
-                                cur = SSP;
+                                cur = DistrictCode.SSP;
                                 break;
                             case "KC":
-                                cur = KC;
+                                cur = DistrictCode.KC;
                                 break;
                             case "WTS":
-                                cur = WTS;
+                                cur = DistrictCode.WTS;
                                 break;
                             case "KT":
-                                cur = KT;
+                                cur = DistrictCode.KT;
                                 break;
                             case "TW":
-                                cur = TW;
+                                cur = DistrictCode.TW;
                                 break;
                             case "TM":
-                                cur = TM;
+                                cur = DistrictCode.TM;
                                 break;
                             case "YL":
-                                cur = YL;
+                                cur = DistrictCode.YL;
                                 break;
                             case "N":
-                                cur = N;
+                                cur = DistrictCode.N;
                                 break;
                             case "TP":
-                                cur = TP;
+                                cur = DistrictCode.TP;
                                 break;
                             case "SK":
-                                cur = SK;
+                                cur = DistrictCode.SK;
                                 break;
                             case "ST":
-                                cur = ST;
+                                cur = DistrictCode.ST;
                                 break;
                             case "KandT":
-                                cur = KandT;
+                                cur = DistrictCode.KandT;
                                 break;
                             case "IS":
-                                cur = IS;
+                                cur = DistrictCode.IS;
                                 break;
                             default:
                                 cur = null;
@@ -125,16 +127,49 @@ public class StreetAnalysis {
                         district = false;
                     } else if (language) {
                         Language cur;
-                        switch (ch[0]) {
-                            case 'E': cur = English;
+                        switch (ch[start]) {
+                            case 'E': cur = Language.English;
                             break;
-                            case 'C': cur = Cantonese;
-                            default: cur = Neutral;
+                            case 'C': cur = Language.Cantonese;
+                            break;
+                            default: cur = Language.Neutral;
                             break;
                         }
+                        streets.getLast().setLanguage(cur);
                     }
                 }
             };
+
+            saxParser.parse("streets.xml", handler);
+            Scanner console = new Scanner(System.in);
+
+            for (Street s: streets) {
+                if (s.getLanguage() == null) {
+                    System.out.println("English: " + s.getEnglishName()
+                            + "\nCantonese: " + s.getCantoneseName());
+                    Language lang = null;
+                    // 1 = Eng, 2 = Cantonese, 3 = Neutral
+                    int code = console.nextInt();
+                    // Only accept valid codes
+                    while (code > 3 || code < 1) {
+                        code = console.nextInt();
+                    }
+
+                    switch (code) {
+                        case 1: lang = Language.English;
+                        break;
+                        case 2: lang = Language.Cantonese;
+                        break;
+                        case 3: lang = Language.Neutral;
+                        break;
+                    }
+                    s.setLanguage(lang);
+
+                    System.out.print("\033[H\033[2J"); // Clear terminal
+                    System.out.flush();
+                }
+            }
+
         } catch (Exception e) {
             e.printStackTrace();
         }
