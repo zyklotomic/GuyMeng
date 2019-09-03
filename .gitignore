@@ -1,4 +1,4 @@
 *.xml
 *.swp
 ./idea
-./out
+/out
