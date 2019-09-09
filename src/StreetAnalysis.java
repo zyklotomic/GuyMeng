@@ -1,11 +1,14 @@
+import java.util.LinkedList;
+import java.util.Arrays;
+import java.util.Scanner;
+
+// SAXParser
 import org.xml.sax.Attributes;
 import org.xml.sax.SAXException;
 import org.xml.sax.helpers.DefaultHandler;
 import javax.xml.parsers.SAXParser;
 import javax.xml.parsers.SAXParserFactory;
-import java.util.LinkedList;
-import java.util.Arrays;
-import java.util.Scanner;
+// DocumentBuilder
 
 public class StreetAnalysis {
     static private LinkedList<Street> streets = new LinkedList<>();
