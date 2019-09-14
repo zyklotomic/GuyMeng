@@ -27,5 +27,6 @@ with open(sys.argv[1]) as f:
                     {'language' : language})
             threading.Thread(target=repetitions, args=(data, street_name, language)).start()
 
-with open(sys.argv[1].split('.')[0] + '-analyzed.geojson', 'w') as t:
+name_append = input("file name: ")
+with open(sys.argv[1].split('.')[0] + '-' + name_append + '.geojson', 'w') as t:
     json.dump(data, t, indent=2)
