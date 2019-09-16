@@ -3,3 +3,4 @@ streets.xml: https://data.gov.hk/en-data/dataset/hk-landsd-openmap-street-name/r
 HK-Island bbox: [bbox:22.261178,114.128337,22.300135,114.210219];
 HK-TST bbox: [bbox:22.292750,114.151897,22.320225,114.193954];
 HK-IslandWest bbox: [bbox:22.269002,114.107394,22.294894,114.166660];
+HK-IslandCWB bbox: [bbox:22.273808,114.179664,22.294735,114.202237];
