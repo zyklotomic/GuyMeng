@@ -27660,7 +27660,8 @@
         "name": "\u7a2e\u690d\u9053 Plantation Road",
         "name:en": "Plantation Road",
         "name:zh": "\u7a2e\u690d\u9053",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -27694,7 +27695,8 @@
         "name": "\u82ac\u68a8\u5f91 Findlay Path",
         "name:en": "Findlay Path",
         "name:zh": "\u82ac\u68a8\u5f91",
-        "sidewalk": "none"
+        "sidewalk": "none",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -28478,7 +28480,8 @@
         "name:en": "May Road",
         "name:zh": "\u6885\u9053",
         "oneway": "yes",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -28521,7 +28524,8 @@
         "name": "\u6885\u9053 May Road",
         "name:en": "May Road",
         "name:zh": "\u6885\u9053",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -28547,7 +28551,8 @@
         "name:en": "May Road",
         "name:zh": "\u6885\u9053",
         "oneway": "yes",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -28624,7 +28629,8 @@
         "name": "\u6885\u9053 May Road",
         "name:en": "May Road",
         "name:zh": "\u6885\u9053",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -28707,7 +28713,8 @@
         "name": "\u6ce2\u8001\u9053 Borrett Road",
         "name:en": "Borrett Road",
         "name:zh": "\u6ce2\u8001\u9053",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -28740,7 +28747,8 @@
         "name": "\u6885\u9053 May Road",
         "name:en": "May Road",
         "name:zh": "\u6885\u9053",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -29552,7 +29560,8 @@
         "name:zh": "\u5206\u57df\u78bc\u982d\u8857\u5929\u6a4b",
         "oneway": "yes",
         "ref": "4",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -29913,7 +29922,8 @@
         "name:en": "Pedder Street",
         "name:zh": "\u7562\u6253\u8857",
         "oneway": "yes",
-        "surface": "concrete"
+        "surface": "concrete",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -30299,7 +30309,8 @@
         "highway": "steps",
         "name": "\u70ae\u53f0\u91cc Battery Path",
         "name:en": "Battery Path",
-        "name:zh": "\u70ae\u53f0\u91cc"
+        "name:zh": "\u70ae\u53f0\u91cc",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -30325,7 +30336,8 @@
         "name": "\u70ae\u53f0\u91cc Battery Path",
         "name:en": "Battery Path",
         "name:zh": "\u70ae\u53f0\u91cc",
-        "vehicle": "private"
+        "vehicle": "private",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -30515,7 +30527,8 @@
         "name": "\u6cc4\u862d\u8857 Zetland Street",
         "name:en": "Zetland Street",
         "name:zh": "\u6cc4\u862d\u8857",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -30799,7 +30812,8 @@
         "name:en": "D'Aguilar Street",
         "name:zh": "\u5fb7\u5df1\u7acb\u8857",
         "oneway": "yes",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -32137,7 +32151,8 @@
         "name:en": "Hillier Street",
         "name:zh": "\u79a7\u5229\u8857",
         "oneway": "yes",
-        "surface": "concrete"
+        "surface": "concrete",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -32654,7 +32669,8 @@
         "name": "\u897f\u6e56\u91cc Sai Woo Lane",
         "name:en": "Sai Woo Lane",
         "name:zh": "\u897f\u6e56\u91cc",
-        "surface": "concrete"
+        "surface": "concrete",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -32681,7 +32697,8 @@
         "name:en": "Hillier Street",
         "name:zh": "\u79a7\u5229\u8857",
         "oneway": "yes",
-        "surface": "concrete"
+        "surface": "concrete",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -33021,7 +33038,8 @@
         "highway": "pedestrian",
         "name": "\u674e\u965e\u8857 Li Sing Street",
         "name:en": "Li Sing Street",
-        "name:zh": "\u674e\u965e\u8857"
+        "name:zh": "\u674e\u965e\u8857",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -33301,7 +33319,8 @@
         "name": "\u674e\u965e\u8857 Li Sing Street",
         "name:en": "Li Sing Street",
         "name:zh": "\u674e\u965e\u8857",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -33339,7 +33358,8 @@
         "name": "\u5b89\u6cf0\u8857 On Tai Street",
         "name:en": "On Tai Street",
         "name:zh": "\u5b89\u6cf0\u8857",
-        "surface": "paved"
+        "surface": "paved",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -33946,7 +33966,8 @@
         "highway": "pedestrian",
         "name": "\u4fee\u6253\u862d\u8857 Sutherland Street",
         "name:en": "Sutherland Street",
-        "name:zh": "\u4fee\u6253\u862d\u8857"
+        "name:zh": "\u4fee\u6253\u862d\u8857",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -33979,7 +34000,8 @@
         "name": "\u5b89\u6cf0\u8857 On Tai Street",
         "name:en": "On Tai Street",
         "name:zh": "\u5b89\u6cf0\u8857",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -34364,7 +34386,8 @@
         "name": "\u4fdd\u5fb7\u8857 Po Tuck Street",
         "name:en": "Po Tuck Street",
         "name:zh": "\u4fdd\u5fb7\u8857",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -34572,7 +34595,8 @@
         "highway": "steps",
         "name": "\u5c45\u4ec1\u91cc Kui Yan Lane",
         "name:en": "Kui Yan Lane",
-        "name:zh": "\u5c45\u4ec1\u91cc"
+        "name:zh": "\u5c45\u4ec1\u91cc",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -34706,7 +34730,8 @@
         "name": "\u798f\u58fd\u91cc Fuk Sau Lane",
         "name:en": "Fuk Sau Lane",
         "name:zh": "\u798f\u58fd\u91cc",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -35429,7 +35454,8 @@
         "highway": "steps",
         "name": "\u674e\u5bf6\u9f8d\u8def Li Po Lung Path",
         "name:en": "Li Po Lung Path",
-        "name:zh": "\u674e\u5bf6\u9f8d\u8def"
+        "name:zh": "\u674e\u5bf6\u9f8d\u8def",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -35791,7 +35817,8 @@
         "highway": "steps",
         "name": "\u9752\u84ee\u81fa Ching Lin Terrace",
         "name:en": "Ching Lin Terrace",
-        "name:zh": "\u9752\u84ee\u81fa"
+        "name:zh": "\u9752\u84ee\u81fa",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -35817,7 +35844,8 @@
         "name": "Pokfield Road Bus Terminus",
         "oneway": "yes",
         "surface": "concrete",
-        "vehicle": "no"
+        "vehicle": "no",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -36583,7 +36611,8 @@
         "highway": "steps",
         "name": "\u6843\u674e\u81fa To Li Terrace",
         "name:en": "To Li Terrace",
-        "name:zh": "\u6843\u674e\u81fa"
+        "name:zh": "\u6843\u674e\u81fa",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -36961,7 +36990,8 @@
         "name": "Pokfield Road Bus Terminus",
         "oneway": "yes",
         "surface": "concrete",
-        "vehicle": "no"
+        "vehicle": "no",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -36985,7 +37015,8 @@
         "highway": "footway",
         "name": "\u592a\u767d\u81fa Tai Pak Terrace",
         "name:en": "Tai Pak Terrace",
-        "name:zh": "\u592a\u767d\u81fa"
+        "name:zh": "\u592a\u767d\u81fa",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -37131,7 +37162,8 @@
         "highway": "footway",
         "name": "\u674e\u5bf6\u9f8d\u8def Li Po Lung Path",
         "name:en": "Li Po Lung Path",
-        "name:zh": "\u674e\u5bf6\u9f8d\u8def"
+        "name:zh": "\u674e\u5bf6\u9f8d\u8def",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -37505,7 +37537,8 @@
         "highway": "footway",
         "name": "\u6bd3\u79c0\u91cc Yuk Sau Lane",
         "name:en": "Yuk Sau Lane",
-        "name:zh": "\u6bd3\u79c0\u91cc"
+        "name:zh": "\u6bd3\u79c0\u91cc",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -37529,7 +37562,8 @@
         "highway": "steps",
         "name": "\u897f\u83ef\u91cc Sai Wa Lane",
         "name:en": "Sai Wa Lane",
-        "name:zh": "\u897f\u83ef\u91cc"
+        "name:zh": "\u897f\u83ef\u91cc",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -37553,7 +37587,8 @@
         "highway": "steps",
         "name": "\u897f\u5c3e\u9053 West End Path",
         "name:en": "West End Path",
-        "name:zh": "\u897f\u5c3e\u9053"
+        "name:zh": "\u897f\u5c3e\u9053",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -37577,7 +37612,8 @@
         "highway": "footway",
         "name": "\u6bd3\u79c0\u91cc Yuk Sau Lane",
         "name:en": "Yuk Sau Lane",
-        "name:zh": "\u6bd3\u79c0\u91cc"
+        "name:zh": "\u6bd3\u79c0\u91cc",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -37627,7 +37663,8 @@
         "name:en": "Babington Path",
         "name:zh": "\u5df4\u4e19\u9813\u9053",
         "oneway": "yes",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -37731,7 +37768,8 @@
         "highway": "footway",
         "name": "\u4e09\u591a\u91cc Sam To Lane",
         "name:en": "Sam To Lane",
-        "name:zh": "\u4e09\u591a\u91cc"
+        "name:zh": "\u4e09\u591a\u91cc",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -37755,7 +37793,8 @@
         "highway": "footway",
         "name": "\u897f\u83ef\u91cc Sai Wa Lane",
         "name:en": "Sai Wa Lane",
-        "name:zh": "\u897f\u83ef\u91cc"
+        "name:zh": "\u897f\u83ef\u91cc",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -37779,7 +37818,8 @@
         "highway": "footway",
         "name": "\u5fb7\u661f\u91cc Tak Sing Lane",
         "name:en": "Tak Sing Lane",
-        "name:zh": "\u5fb7\u661f\u91cc"
+        "name:zh": "\u5fb7\u661f\u91cc",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -37810,7 +37850,8 @@
         "name": "\u8056\u58eb\u63d0\u53cd\u91cc St. Stephen's Lane",
         "name:en": "St. Stephen's Lane",
         "name:zh": "\u8056\u58eb\u63d0\u53cd\u91cc",
-        "surface": "paving_stones"
+        "surface": "paving_stones",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -37854,7 +37895,8 @@
         "highway": "footway",
         "name": "\u532f\u5b89\u91cc Ui On Lane",
         "name:en": "Ui On Lane",
-        "name:zh": "\u532f\u5b89\u91cc"
+        "name:zh": "\u532f\u5b89\u91cc",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -37884,7 +37926,8 @@
         "parking:left": "parallel",
         "parking:left:fee": "yes",
         "surface": "asphalt",
-        "wikidata": "Q22341249"
+        "wikidata": "Q22341249",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -37916,7 +37959,8 @@
         "highway": "steps",
         "name": "\u4e09\u591a\u91cc Sam To Lane",
         "name:en": "Sam To Lane",
-        "name:zh": "\u4e09\u591a\u91cc"
+        "name:zh": "\u4e09\u591a\u91cc",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -37940,7 +37984,8 @@
         "highway": "footway",
         "name": "\u7239\u6838\u91cc David Lane",
         "name:en": "David Lane",
-        "name:zh": "\u7239\u6838\u91cc"
+        "name:zh": "\u7239\u6838\u91cc",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -38012,7 +38057,8 @@
         "name:en": "St. Stephen's Lane",
         "name:zh": "\u8056\u58eb\u63d0\u53cd\u91cc",
         "oneway": "no",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -38277,7 +38323,8 @@
         "name": "\u5c4b\u862d\u58eb\u91cc Oaklands Path",
         "name:en": "Oaklands Path",
         "name:zh": "\u5c4b\u862d\u58eb\u91cc",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -38315,7 +38362,8 @@
         "layer": "1",
         "motorcar": "no",
         "name": "Mid Level Escalator",
-        "name:en": "Mid Level Escalator"
+        "name:en": "Mid Level Escalator",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -38347,7 +38395,8 @@
         "name:zh": "\u5351\u5229\u58eb\u9053",
         "oneway": "yes",
         "surface": "asphalt",
-        "wikidata": "Q22341289"
+        "wikidata": "Q22341289",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -38813,7 +38862,8 @@
         "official_name": "\u4e2d\u74b0\u81f3\u534a\u5c71\u81ea\u52d5\u6276\u624b\u96fb\u68af\u7cfb\u7d71 Central-Mid-Levels Escalator and Walkway System",
         "official_name:en": "Central-Mid-Levels Escalator and Walkway System",
         "wikidata": "Q859404",
-        "wikipedia": "en:Central\u2013Mid-Levels escalator and walkway system"
+        "wikipedia": "en:Central\u2013Mid-Levels escalator and walkway system",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -38879,7 +38929,8 @@
         "highway": "pedestrian",
         "name": "\u69ae\u83ef\u91cc Wing Wah Lane",
         "name:en": "Wing Wah Lane",
-        "name:zh": "\u69ae\u83ef\u91cc"
+        "name:zh": "\u69ae\u83ef\u91cc",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -39246,7 +39297,8 @@
         "name:en": "Mosque Junction",
         "name:zh": "\u6469\u7f85\u5edf\u4ea4\u52a0\u8857",
         "oneway": "yes",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -39416,7 +39468,8 @@
         "highway": "steps",
         "name": "\u885b\u57ce\u574a Castle Steps",
         "name:en": "Castle Steps",
-        "name:zh": "\u885b\u57ce\u574a"
+        "name:zh": "\u885b\u57ce\u574a",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -39556,7 +39609,8 @@
         "highway": "footway",
         "name": "\u5c4b\u862d\u58eb\u91cc Oaklands Path",
         "name:en": "Oaklands Path",
-        "name:zh": "\u5c4b\u862d\u58eb\u91cc"
+        "name:zh": "\u5c4b\u862d\u58eb\u91cc",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -40283,7 +40337,8 @@
         "name:en": "Victoria Road",
         "name:zh": "\u57df\u591a\u5229\u9053",
         "source": "yahoo_imagery",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -40443,7 +40498,8 @@
         "highway": "service",
         "name": "\u6469\u661f\u5dba\u5f91 Mount Davis Path",
         "name:en": "Mount Davis Path",
-        "name:zh": "\u6469\u661f\u5dba\u5f91"
+        "name:zh": "\u6469\u661f\u5dba\u5f91",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -40811,7 +40867,8 @@
         "highway": "service",
         "name": "\u6469\u661f\u5dba\u5f91 Mount Davis Path",
         "name:en": "Mount Davis Path",
-        "name:zh": "\u6469\u661f\u5dba\u5f91"
+        "name:zh": "\u6469\u661f\u5dba\u5f91",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -41216,7 +41273,8 @@
         "name": "\u6469\u661f\u5dba\u5f91 Mount Davis Path",
         "name:en": "Mount Davis Path",
         "name:zh": "\u6469\u661f\u5dba\u5f91",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -41292,7 +41350,8 @@
         "highway": "service",
         "name": "\u6469\u661f\u5dba\u5f91 Mount Davis Path",
         "name:en": "Mount Davis Path",
-        "name:zh": "\u6469\u661f\u5dba\u5f91"
+        "name:zh": "\u6469\u661f\u5dba\u5f91",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -41445,7 +41504,8 @@
         "name:en": "Sandy Bay Road",
         "name:zh": "\u5927\u53e3\u74b0\u9053",
         "oneway": "yes",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -41604,7 +41664,8 @@
         "highway": "service",
         "name": "\u6469\u661f\u5dba\u5f91 Mount Davis Path",
         "name:en": "Mount Davis Path",
-        "name:zh": "\u6469\u661f\u5dba\u5f91"
+        "name:zh": "\u6469\u661f\u5dba\u5f91",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -41937,7 +41998,8 @@
         "highway": "residential",
         "name": "\u5927\u53e3\u74b0\u9053 Sandy Bay Road",
         "name:en": "Sandy Bay Road",
-        "name:zh": "\u5927\u53e3\u74b0\u9053"
+        "name:zh": "\u5927\u53e3\u74b0\u9053",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -42193,7 +42255,8 @@
         "name": "\u6c38\u5229\u8857 Wing Lee Street",
         "name:en": "Wing Lee Street",
         "name:zh": "\u6c38\u5229\u8857",
-        "tourism": "yes"
+        "tourism": "yes",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -42234,7 +42297,8 @@
         "name:en": "Victoria Road",
         "name:zh": "\u57df\u591a\u5229\u9053",
         "source": "yahoo_imagery",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -42466,7 +42530,8 @@
         "highway": "footway",
         "name": "\u6c34\u5df7 Water Lane",
         "name:en": "Water Lane",
-        "name:zh": "\u6c34\u5df7"
+        "name:zh": "\u6c34\u5df7",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -42498,7 +42563,8 @@
         "highway": "steps",
         "name": "\u83ef\u5be7\u91cc Wa Ning Lane",
         "name:en": "Wa Ning Lane",
-        "name:zh": "\u83ef\u5be7\u91cc"
+        "name:zh": "\u83ef\u5be7\u91cc",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -42523,7 +42589,8 @@
         "name": "\u78c5\u5df7 Pound Lane",
         "name:en": "Pound Lane",
         "name:zh": "\u78c5\u5df7",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -42551,7 +42618,8 @@
         "name:en": "Ladder Street",
         "name:zh": "\u6a13\u68af\u8857",
         "oneway": "yes",
-        "surface": "concrete"
+        "surface": "concrete",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -42938,7 +43006,8 @@
         "highway": "steps",
         "name": "\u6c34\u6c60\u5df7 Tank Lane",
         "name:en": "Tank Lane",
-        "name:zh": "\u6c34\u6c60\u5df7"
+        "name:zh": "\u6c34\u6c60\u5df7",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -43117,7 +43186,8 @@
         "highway": "footway",
         "name": "\u5f8b\u6253\u8857 Rutter Street",
         "name:en": "Rutter Street",
-        "name:zh": "\u5f8b\u6253\u8857"
+        "name:zh": "\u5f8b\u6253\u8857",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -43182,7 +43252,8 @@
         "name": "\u5805\u5df7 Caine Lane",
         "name:en": "Caine Lane",
         "name:zh": "\u5805\u5df7",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -43315,7 +43386,8 @@
         "highway": "footway",
         "name": "\u83ef\u8208\u91cc Wa Hing Lane",
         "name:en": "Wa Hing Lane",
-        "name:zh": "\u83ef\u8208\u91cc"
+        "name:zh": "\u83ef\u8208\u91cc",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -43343,7 +43415,8 @@
         "highway": "footway",
         "name": "\u6c34\u6c60\u5df7 Tank Lane",
         "name:en": "Tank Lane",
-        "name:zh": "\u6c34\u6c60\u5df7"
+        "name:zh": "\u6c34\u6c60\u5df7",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -43372,7 +43445,8 @@
         "name": "\u78c5\u5df7 Pound Lane",
         "name:en": "Pound Lane",
         "name:zh": "\u78c5\u5df7",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -43518,7 +43592,8 @@
         "highway": "footway",
         "name": "\u80b2\u8ce2\u574a College View",
         "name:en": "College View",
-        "name:zh": "\u80b2\u8ce2\u574a"
+        "name:zh": "\u80b2\u8ce2\u574a",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -43575,7 +43650,8 @@
         "highway": "steps",
         "name": "\u6c34\u6c60\u5df7 Tank Lane",
         "name:en": "Tank Lane",
-        "name:zh": "\u6c34\u6c60\u5df7"
+        "name:zh": "\u6c34\u6c60\u5df7",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -43893,7 +43969,8 @@
         "highway": "footway",
         "name": "\u6a13\u68af\u81fa Ladder Street Terrace",
         "name:en": "Ladder Street Terrace",
-        "name:zh": "\u6a13\u68af\u81fa"
+        "name:zh": "\u6a13\u68af\u81fa",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -44005,7 +44082,8 @@
         "name": "\u6c34\u6c60\u5df7 Tank Lane",
         "name:en": "Tank Lane",
         "name:zh": "\u6c34\u6c60\u5df7",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -44033,7 +44111,8 @@
         "highway": "footway",
         "name": "\u8001\u6c99\u8def\u8857 Rozario Street",
         "name:en": "Rozario Street",
-        "name:zh": "\u8001\u6c99\u8def\u8857"
+        "name:zh": "\u8001\u6c99\u8def\u8857",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -44129,7 +44208,8 @@
         "highway": "footway",
         "name": "\u6a13\u68af\u81fa Ladder Street Terrace",
         "name:en": "Ladder Street Terrace",
-        "name:zh": "\u6a13\u68af\u81fa"
+        "name:zh": "\u6a13\u68af\u81fa",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -44153,7 +44233,8 @@
         "highway": "footway",
         "name": "\u5927\u5b89\u81fa Tai On Terrace",
         "name:en": "Tai On Terrace",
-        "name:zh": "\u5927\u5b89\u81fa"
+        "name:zh": "\u5927\u5b89\u81fa",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -44524,7 +44605,8 @@
         "highway": "footway",
         "name": "\u69ae\u83ef\u81fa Wing Wa Terrace",
         "name:en": "Wing Wa Terrace",
-        "name:zh": "\u69ae\u83ef\u81fa"
+        "name:zh": "\u69ae\u83ef\u81fa",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -44571,7 +44653,8 @@
         "incline": "up",
         "name": "\u5bf6\u6e90\u91cc Po Yuen Lane",
         "name:en": "Po Yuen Lane",
-        "name:zh": "\u5bf6\u6e90\u91cc"
+        "name:zh": "\u5bf6\u6e90\u91cc",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -44595,7 +44678,8 @@
         "highway": "steps",
         "name": "\u78c5\u5df7 Pound Lane",
         "name:en": "Pound Lane",
-        "name:zh": "\u78c5\u5df7"
+        "name:zh": "\u78c5\u5df7",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -44653,7 +44737,8 @@
         "highway": "footway",
         "name": "\u5f13\u7d43\u5df7 Circular Pathway",
         "name:en": "Circular Pathway",
-        "name:zh": "\u5f13\u7d43\u5df7"
+        "name:zh": "\u5f13\u7d43\u5df7",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -44681,7 +44766,8 @@
         "highway": "steps",
         "name": "\u80b2\u8ce2\u574a College View",
         "name:en": "College View",
-        "name:zh": "\u80b2\u8ce2\u574a"
+        "name:zh": "\u80b2\u8ce2\u574a",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -44705,7 +44791,8 @@
         "highway": "steps",
         "name": "\u666e\u4ec1\u8857 Po Yan Street",
         "name:en": "Po Yan Street",
-        "name:zh": "\u666e\u4ec1\u8857"
+        "name:zh": "\u666e\u4ec1\u8857",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -44760,7 +44847,8 @@
         "highway": "steps",
         "name": "\u5e73\u5b89\u91cc Ping On Lane",
         "name:en": "Ping On Lane",
-        "name:zh": "\u5e73\u5b89\u91cc"
+        "name:zh": "\u5e73\u5b89\u91cc",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -44791,7 +44879,8 @@
         "name:zh": "\u592a\u5e73\u5c71\u8857",
         "oneway": "yes",
         "surface": "asphalt",
-        "tourism": "yes"
+        "tourism": "yes",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -44835,7 +44924,8 @@
         "highway": "steps",
         "name": "\u6a13\u68af\u81fa Ladder Street Terrace",
         "name:en": "Ladder Street Terrace",
-        "name:zh": "\u6a13\u68af\u81fa"
+        "name:zh": "\u6a13\u68af\u81fa",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -46052,7 +46142,8 @@
         "name": "\u540c\u6a02\u5f91 Governor's Walk",
         "name:en": "Governor's Walk",
         "name:zh": "\u540c\u6a02\u5f91",
-        "surface": "paved"
+        "surface": "paved",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -46353,7 +46444,8 @@
         "name": "\u540c\u6a02\u5f91 Governor's Walk",
         "name:en": "Governor's Walk",
         "name:zh": "\u540c\u6a02\u5f91",
-        "surface": "paved"
+        "surface": "paved",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -47500,7 +47592,8 @@
         "name": "Pinewood Battery Heritage Trail \u677e\u6797\u5ee2\u5821\u6b77\u53f2\u5f91",
         "name:en": "Pinewood Battery Heritage Trail",
         "name:zh": "\u677e\u6797\u5ee2\u5821\u6b77\u53f2\u5f91",
-        "vehicle": "no"
+        "vehicle": "no",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -47544,7 +47637,8 @@
         "highway": "footway",
         "name": "Pinewood Battery Heritage Trail \u677e\u6797\u5ee2\u5821\u6b77\u53f2\u5f91",
         "name:en": "Pinewood Battery Heritage Trail",
-        "name:zh": "\u677e\u6797\u5ee2\u5821\u6b77\u53f2\u5f91"
+        "name:zh": "\u677e\u6797\u5ee2\u5821\u6b77\u53f2\u5f91",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -50345,7 +50439,8 @@
         "highway": "footway",
         "name": "\u84b2\u9b6f\u8ce2\u5f91 Brewin Path",
         "name:en": "Brewin Path",
-        "name:zh": "\u84b2\u9b6f\u8ce2\u5f91"
+        "name:zh": "\u84b2\u9b6f\u8ce2\u5f91",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -52537,7 +52632,8 @@
         "name:en": "Wellington Street",
         "name:zh": "\u5a01\u9748\u9813\u8857",
         "oneway": "yes",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -52591,7 +52687,8 @@
         "name:en": "Hillier Street",
         "name:zh": "\u79a7\u5229\u8857",
         "oneway": "yes",
-        "surface": "concrete"
+        "surface": "concrete",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -52618,7 +52715,8 @@
         "name:en": "Wellington Street",
         "name:zh": "\u5a01\u9748\u9813\u8857",
         "oneway": "yes",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -52694,7 +52792,8 @@
         "name": "\u611b\u4e01\u5821\u5ee3\u5834 Edinburgh Place",
         "name:en": "Edinburgh Place",
         "name:zh": "\u611b\u4e01\u5821\u5ee3\u5834",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -52759,7 +52858,8 @@
         "name:en": "Hollywood Road",
         "name:zh": "\u8377\u674e\u6d3b\u9053",
         "oneway": "yes",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -52854,7 +52954,8 @@
         "name:zh": "\u6c11\u5bf6\u8857",
         "oneway": "yes",
         "surface": "asphalt",
-        "unsigned_ref": "P1"
+        "unsigned_ref": "P1",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -55133,7 +55234,8 @@
         "highway": "footway",
         "name": "\u91ab\u9662\u5f91 Hospital Path",
         "name:en": "Hospital Path",
-        "name:zh": "\u91ab\u9662\u5f91"
+        "name:zh": "\u91ab\u9662\u5f91",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -55177,7 +55279,8 @@
         "highway": "footway",
         "name": "\u91ab\u9662\u5f91 Hospital Path",
         "name:en": "Hospital Path",
-        "name:zh": "\u91ab\u9662\u5f91"
+        "name:zh": "\u91ab\u9662\u5f91",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -55242,7 +55345,8 @@
         "name:en": "Bonham Strand",
         "name:zh": "\u6587\u54b8\u6771\u8857",
         "oneway": "yes",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -55276,7 +55380,8 @@
         "name": "\u6587\u54b8\u6771\u8857 Bonham Strand",
         "name:en": "Bonham Strand",
         "name:zh": "\u6587\u54b8\u6771\u8857",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -55307,7 +55412,8 @@
         "name:en": "Bonham Strand",
         "name:zh": "\u6587\u54b8\u6771\u8857",
         "oneway": "yes",
-        "surface": "concrete"
+        "surface": "concrete",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -55380,7 +55486,8 @@
         "name": "\u5fc5\u5217\u8005\u58eb\u8857 Bridges Street",
         "name:en": "Bridges Street",
         "name:zh": "\u5fc5\u5217\u8005\u58eb\u8857",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -55426,7 +55533,8 @@
         "name:en": "Burd Street",
         "name:zh": "\u7562\u8857",
         "oneway": "yes",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -55455,7 +55563,8 @@
         "name": "\u79a7\u5229\u8857 Hillier Street",
         "name:en": "Hillier Street",
         "name:zh": "\u79a7\u5229\u8857",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -55485,7 +55594,8 @@
         "name:en": "Hillier Street",
         "name:zh": "\u79a7\u5229\u8857",
         "oneway": "yes",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -55513,7 +55623,8 @@
         "highway": "steps",
         "name": "\u79a7\u5229\u8857 Hillier Street",
         "name:en": "Hillier Street",
-        "name:zh": "\u79a7\u5229\u8857"
+        "name:zh": "\u79a7\u5229\u8857",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -55544,7 +55655,8 @@
         "name:en": "Hollywood Road",
         "name:zh": "\u8377\u674e\u6d3b\u9053",
         "oneway": "yes",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -55645,7 +55757,8 @@
         "oneway": "yes",
         "surface": "asphalt",
         "wikidata": "Q5882916",
-        "wikipedia": "en:Hollywood Road"
+        "wikipedia": "en:Hollywood Road",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -55669,7 +55782,8 @@
         "highway": "footway",
         "name": "\u8ce2\u5c45\u91cc In Ku Lane",
         "name:en": "In Ku Lane",
-        "name:zh": "\u8ce2\u5c45\u91cc"
+        "name:zh": "\u8ce2\u5c45\u91cc",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -55699,7 +55813,8 @@
         "name:en": "Jervois Street",
         "name:zh": "\u8607\u676d\u8857",
         "oneway": "yes",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -55773,7 +55888,8 @@
         "highway": "footway",
         "name": "\u7518\u96e8\u8857 Kom U Street",
         "name:en": "Kom U Street",
-        "name:zh": "\u7518\u96e8\u8857"
+        "name:zh": "\u7518\u96e8\u8857",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -55798,7 +55914,8 @@
         "name": "\u5c45\u8ce2\u574a Kui In Fong",
         "name:en": "Kui In Fong",
         "name:zh": "\u5c45\u8ce2\u574a",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -55830,7 +55947,8 @@
         "highway": "steps",
         "name": "\u6a13\u68af\u8857 Ladder Street",
         "name:en": "Ladder Street",
-        "name:zh": "\u6a13\u68af\u8857"
+        "name:zh": "\u6a13\u68af\u8857",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -55854,7 +55972,8 @@
         "highway": "steps",
         "name": "\u6a13\u68af\u8857 Ladder Street",
         "name:en": "Ladder Street",
-        "name:zh": "\u6a13\u68af\u8857"
+        "name:zh": "\u6a13\u68af\u8857",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -55886,7 +56005,8 @@
         "highway": "steps",
         "name": "\u6a13\u68af\u8857 Ladder Street",
         "name:en": "Ladder Street",
-        "name:zh": "\u6a13\u68af\u8857"
+        "name:zh": "\u6a13\u68af\u8857",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -55933,7 +56053,8 @@
         "name:en": "Lok Ku Road",
         "name:zh": "\u6a02\u53e4\u9053",
         "oneway": "yes",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -56003,7 +56124,8 @@
         "name:en": "Mercer Street",
         "name:zh": "\u5b56\u6c99\u8857",
         "oneway": "yes",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -56067,7 +56189,8 @@
         "name:en": "New Street",
         "name:zh": "\u65b0\u8857",
         "oneway": "yes",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -56108,7 +56231,8 @@
         "name": "\u666e\u6176\u574a Po Hing Fong",
         "name:en": "Po Hing Fong",
         "name:zh": "\u666e\u6176\u574a",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -56132,7 +56256,8 @@
         "highway": "steps",
         "name": "\u666e\u6176\u574a Po Hing Fong",
         "name:en": "Po Hing Fong",
-        "name:zh": "\u666e\u6176\u574a"
+        "name:zh": "\u666e\u6176\u574a",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -56165,7 +56290,8 @@
         "name": "\u666e\u6176\u574a Po Hing Fong",
         "name:en": "Po Hing Fong",
         "name:zh": "\u666e\u6176\u574a",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -56205,7 +56331,8 @@
         "highway": "steps",
         "name": "\u666e\u4ec1\u8857 Po Yan Street",
         "name:en": "Po Yan Street",
-        "name:zh": "\u666e\u4ec1\u8857"
+        "name:zh": "\u666e\u4ec1\u8857",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -56231,7 +56358,8 @@
         "name": "\u666e\u4ec1\u8857 Po Yan Street",
         "name:en": "Po Yan Street",
         "name:zh": "\u666e\u4ec1\u8857",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -56272,7 +56400,8 @@
         "name": "\u666e\u7fa9\u8857 Po Yee Street",
         "name:en": "Po Yee Street",
         "name:zh": "\u666e\u7fa9\u8857",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -56296,7 +56425,8 @@
         "highway": "steps",
         "name": "\u78c5\u5df7 Pound Lane",
         "name:en": "Pound Lane",
-        "name:zh": "\u78c5\u5df7"
+        "name:zh": "\u78c5\u5df7",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -56331,7 +56461,8 @@
         "name:en": "Pound Lane",
         "name:zh": "\u78c5\u5df7",
         "oneway": "yes",
-        "surface": "concrete"
+        "surface": "concrete",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -56391,7 +56522,8 @@
         "name:en": "Shing Wong Street",
         "name:zh": "\u57ce\u7687\u8857",
         "oneway": "yes",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -56418,7 +56550,8 @@
         "name:en": "Sutherland Street",
         "name:zh": "\u4fee\u6253\u862d\u8857",
         "oneway": "yes",
-        "surface": "concrete"
+        "surface": "concrete",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -56454,7 +56587,8 @@
         "name:zh": "\u4fee\u6253\u862d\u8857",
         "oneway": "yes",
         "service": "alley",
-        "surface": "concrete"
+        "surface": "concrete",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -56487,7 +56621,8 @@
         "name": "\u592a\u5e73\u5c71\u8857 Tai Ping Shan Street",
         "name:en": "Tai Ping Shan Street",
         "name:zh": "\u592a\u5e73\u5c71\u8857",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -56513,7 +56648,8 @@
         "name:en": "Tai Ping Shan Street",
         "name:zh": "\u592a\u5e73\u5c71\u8857",
         "oneway": "yes",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -56538,7 +56674,8 @@
         "highway": "steps",
         "name": "\u592a\u5e73\u5c71\u8857 Tai Ping Shan Street",
         "name:en": "Tai Ping Shan Street",
-        "name:zh": "\u592a\u5e73\u5c71\u8857"
+        "name:zh": "\u592a\u5e73\u5c71\u8857",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -56568,7 +56705,8 @@
         "name": "\u6469\u7f85\u4e0a\u8857 Upper Lascar Row",
         "name:en": "Upper Lascar Row",
         "name:zh": "\u6469\u7f85\u4e0a\u8857",
-        "surface": "paved"
+        "surface": "paved",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -56650,7 +56788,8 @@
         "maxlength": "10",
         "name": "\u548c\u98a8\u8857 Wo Fung Street",
         "name:en": "Wo Fung Street",
-        "name:zh": "\u548c\u98a8\u8857"
+        "name:zh": "\u548c\u98a8\u8857",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -56682,7 +56821,8 @@
         "highway": "footway",
         "name": "\u9918\u6176\u91cc Yu Hing Lane",
         "name:en": "Yu Hing Lane",
-        "name:zh": "\u9918\u6176\u91cc"
+        "name:zh": "\u9918\u6176\u91cc",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -56874,7 +57014,8 @@
         "name:en": "Arbuthnot Road",
         "name:zh": "\u4e9e\u7562\u8afe\u9053",
         "oneway": "yes",
-        "surface": "concrete"
+        "surface": "concrete",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -56929,7 +57070,8 @@
         "name:en": "Bonham Strand",
         "name:zh": "\u6587\u54b8\u6771\u8857",
         "oneway": "yes",
-        "surface": "concrete"
+        "surface": "concrete",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -57025,7 +57167,8 @@
         "highway": "footway",
         "name": "\u885b\u57ce\u91cc Castle Lane",
         "name:en": "Castle Lane",
-        "name:zh": "\u885b\u57ce\u91cc"
+        "name:zh": "\u885b\u57ce\u91cc",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -57061,7 +57204,8 @@
         "official_name:en": "Central-Mid-Levels Escalator and Walkway System",
         "tunnel": "yes",
         "wikidata": "Q859404",
-        "wikipedia": "en:Central\u2013Mid-Levels escalator and walkway system"
+        "wikipedia": "en:Central\u2013Mid-Levels escalator and walkway system",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -57096,7 +57240,8 @@
         "official_name": "\u4e2d\u74b0\u81f3\u534a\u5c71\u81ea\u52d5\u6276\u624b\u96fb\u68af\u7cfb\u7d71 Central-Mid-Levels Escalator and Walkway System",
         "official_name:en": "Central-Mid-Levels Escalator and Walkway System",
         "wikidata": "Q859404",
-        "wikipedia": "en:Central\u2013Mid-Levels escalator and walkway system"
+        "wikipedia": "en:Central\u2013Mid-Levels escalator and walkway system",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -57131,7 +57276,8 @@
         "official_name": "\u4e2d\u74b0\u81f3\u534a\u5c71\u81ea\u52d5\u6276\u624b\u96fb\u68af\u7cfb\u7d71 Central-Mid-Levels Escalator and Walkway System",
         "official_name:en": "Central-Mid-Levels Escalator and Walkway System",
         "wikidata": "Q859404",
-        "wikipedia": "en:Central\u2013Mid-Levels escalator and walkway system"
+        "wikipedia": "en:Central\u2013Mid-Levels escalator and walkway system",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -57163,7 +57309,8 @@
         "official_name:en": "Central-Mid-Levels Escalator and Walkway System",
         "tunnel": "yes",
         "wikidata": "Q859404",
-        "wikipedia": "en:Central\u2013Mid-Levels escalator and walkway system"
+        "wikipedia": "en:Central\u2013Mid-Levels escalator and walkway system",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -57202,7 +57349,8 @@
         "official_name": "\u4e2d\u74b0\u81f3\u534a\u5c71\u81ea\u52d5\u6276\u624b\u96fb\u68af\u7cfb\u7d71 Central-Mid-Levels Escalator and Walkway System",
         "official_name:en": "Central-Mid-Levels Escalator and Walkway System",
         "wikidata": "Q859404",
-        "wikipedia": "en:Central\u2013Mid-Levels escalator and walkway system"
+        "wikipedia": "en:Central\u2013Mid-Levels escalator and walkway system",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -57237,7 +57385,8 @@
         "official_name": "\u4e2d\u74b0\u81f3\u534a\u5c71\u81ea\u52d5\u6276\u624b\u96fb\u68af\u7cfb\u7d71 Central-Mid-Levels Escalator and Walkway System",
         "official_name:en": "Central-Mid-Levels Escalator and Walkway System",
         "wikidata": "Q859404",
-        "wikipedia": "en:Central\u2013Mid-Levels escalator and walkway system"
+        "wikipedia": "en:Central\u2013Mid-Levels escalator and walkway system",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -57273,7 +57422,8 @@
         "official_name": "\u4e2d\u74b0\u81f3\u534a\u5c71\u81ea\u52d5\u6276\u624b\u96fb\u68af\u7cfb\u7d71 Central-Mid-Levels Escalator and Walkway System",
         "official_name:en": "Central-Mid-Levels Escalator and Walkway System",
         "wikidata": "Q859404",
-        "wikipedia": "en:Central\u2013Mid-Levels escalator and walkway system"
+        "wikipedia": "en:Central\u2013Mid-Levels escalator and walkway system",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -57312,7 +57462,8 @@
         "official_name": "\u4e2d\u74b0\u81f3\u534a\u5c71\u81ea\u52d5\u6276\u624b\u96fb\u68af\u7cfb\u7d71 Central-Mid-Levels Escalator and Walkway System",
         "official_name:en": "Central-Mid-Levels Escalator and Walkway System",
         "wikidata": "Q859404",
-        "wikipedia": "en:Central\u2013Mid-Levels escalator and walkway system"
+        "wikipedia": "en:Central\u2013Mid-Levels escalator and walkway system",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -57349,7 +57500,8 @@
         "official_name:en": "Central-Mid-Levels Escalator and Walkway System",
         "tourism": "attraction",
         "wikidata": "Q859404",
-        "wikipedia": "en:Central\u2013Mid-Levels escalator and walkway system"
+        "wikipedia": "en:Central\u2013Mid-Levels escalator and walkway system",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -57389,7 +57541,8 @@
         "official_name": "\u4e2d\u74b0\u81f3\u534a\u5c71\u81ea\u52d5\u6276\u624b\u96fb\u68af\u7cfb\u7d71 Central-Mid-Levels Escalator and Walkway System",
         "official_name:en": "Central-Mid-Levels Escalator and Walkway System",
         "wikidata": "Q859404",
-        "wikipedia": "en:Central\u2013Mid-Levels escalator and walkway system"
+        "wikipedia": "en:Central\u2013Mid-Levels escalator and walkway system",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -57428,7 +57581,8 @@
         "official_name": "\u4e2d\u74b0\u81f3\u534a\u5c71\u81ea\u52d5\u6276\u624b\u96fb\u68af\u7cfb\u7d71 Central-Mid-Levels Escalator and Walkway System",
         "official_name:en": "Central-Mid-Levels Escalator and Walkway System",
         "wikidata": "Q859404",
-        "wikipedia": "en:Central\u2013Mid-Levels escalator and walkway system"
+        "wikipedia": "en:Central\u2013Mid-Levels escalator and walkway system",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -57471,7 +57625,8 @@
         "official_name": "\u4e2d\u74b0\u81f3\u534a\u5c71\u81ea\u52d5\u6276\u624b\u96fb\u68af\u7cfb\u7d71 Central-Mid-Levels Escalator and Walkway System",
         "official_name:en": "Central-Mid-Levels Escalator and Walkway System",
         "wikidata": "Q859404",
-        "wikipedia": "en:Central\u2013Mid-Levels escalator and walkway system"
+        "wikipedia": "en:Central\u2013Mid-Levels escalator and walkway system",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -57515,7 +57670,8 @@
         "official_name:en": "Central-Mid-Levels Escalator and Walkway System",
         "tourism": "attraction",
         "wikidata": "Q859404",
-        "wikipedia": "en:Central\u2013Mid-Levels escalator and walkway system"
+        "wikipedia": "en:Central\u2013Mid-Levels escalator and walkway system",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -57558,7 +57714,8 @@
         "official_name": "\u4e2d\u74b0\u81f3\u534a\u5c71\u81ea\u52d5\u6276\u624b\u96fb\u68af\u7cfb\u7d71 Central-Mid-Levels Escalator and Walkway System",
         "official_name:en": "Central-Mid-Levels Escalator and Walkway System",
         "wikidata": "Q859404",
-        "wikipedia": "en:Central\u2013Mid-Levels escalator and walkway system"
+        "wikipedia": "en:Central\u2013Mid-Levels escalator and walkway system",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -57605,7 +57762,8 @@
         "official_name": "\u4e2d\u74b0\u81f3\u534a\u5c71\u81ea\u52d5\u6276\u624b\u96fb\u68af\u7cfb\u7d71 Central-Mid-Levels Escalator and Walkway System",
         "official_name:en": "Central-Mid-Levels Escalator and Walkway System",
         "wikidata": "Q859404",
-        "wikipedia": "en:Central\u2013Mid-Levels escalator and walkway system"
+        "wikipedia": "en:Central\u2013Mid-Levels escalator and walkway system",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -57660,7 +57818,8 @@
         "official_name": "\u4e2d\u74b0\u81f3\u534a\u5c71\u81ea\u52d5\u6276\u624b\u96fb\u68af\u7cfb\u7d71 Central-Mid-Levels Escalator and Walkway System",
         "official_name:en": "Central-Mid-Levels Escalator and Walkway System",
         "wikidata": "Q859404",
-        "wikipedia": "en:Central\u2013Mid-Levels escalator and walkway system"
+        "wikipedia": "en:Central\u2013Mid-Levels escalator and walkway system",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -57721,7 +57880,8 @@
         "name": "\u8d0a\u5584\u91cc Chancery Lane",
         "name:en": "Chancery Lane",
         "name:zh": "\u8d0a\u5584\u91cc",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -57745,7 +57905,8 @@
         "highway": "footway",
         "name": "\u829d\u53e4\u81fa Chico Terrace",
         "name:en": "Chico Terrace",
-        "name:zh": "\u829d\u53e4\u81fa"
+        "name:zh": "\u829d\u53e4\u81fa",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -57769,7 +57930,8 @@
         "highway": "steps",
         "name": "\u4e2d\u548c\u91cc Chung Wo Lane",
         "name:en": "Chung Wo Lane",
-        "name:zh": "\u4e2d\u548c\u91cc"
+        "name:zh": "\u4e2d\u548c\u91cc",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -57882,7 +58044,8 @@
         "highway": "footway",
         "name": "\u52a0\u5195\u81fa Coronation Terrace",
         "name:en": "Coronation Terrace",
-        "name:zh": "\u52a0\u5195\u81fa"
+        "name:zh": "\u52a0\u5195\u81fa",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -57917,7 +58080,8 @@
         "name:en": "D'Aguilar Street",
         "name:zh": "\u5fb7\u5df1\u7acb\u8857",
         "oneway": "yes",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -57988,7 +58152,8 @@
         "name:en": "D'Aguilar Street",
         "name:zh": "\u5fb7\u5df1\u7acb\u8857",
         "oneway": "yes",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -58072,7 +58237,8 @@
         "highway": "footway",
         "name": "\u4f0a\u6c99\u91cc Ezra's Lane",
         "name:en": "Ezra's Lane",
-        "name:zh": "\u4f0a\u6c99\u91cc"
+        "name:zh": "\u4f0a\u6c99\u91cc",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -58100,7 +58266,8 @@
         "highway": "footway",
         "name": "\u4f50\u6cbb\u91cc George's Lane",
         "name:en": "George's Lane",
-        "name:zh": "\u4f50\u6cbb\u91cc"
+        "name:zh": "\u4f50\u6cbb\u91cc",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -58153,7 +58320,8 @@
         "highway": "pedestrian",
         "name": "\u6a5f\u5229\u6587\u65b0\u8857 Gilman's Bazaar",
         "name:en": "Gilman's Bazaar",
-        "name:zh": "\u6a5f\u5229\u6587\u65b0\u8857"
+        "name:zh": "\u6a5f\u5229\u6587\u65b0\u8857",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -58279,7 +58447,8 @@
         "highway": "pedestrian",
         "name": "\u5409\u58eb\u7b20\u8857 Gutzlaff Street",
         "name:en": "Gutzlaff Street",
-        "name:zh": "\u5409\u58eb\u7b20\u8857"
+        "name:zh": "\u5409\u58eb\u7b20\u8857",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -58308,7 +58477,8 @@
         "highway": "pedestrian",
         "name": "\u8208\u9686\u8857 Hing Lung Street",
         "name:en": "Hing Lung Street",
-        "name:zh": "\u8208\u9686\u8857"
+        "name:zh": "\u8208\u9686\u8857",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -58332,7 +58502,8 @@
         "highway": "footway",
         "name": "\u4f55\u90ed\u91cc Ho Kwok Lane",
         "name:en": "Ho Kwok Lane",
-        "name:zh": "\u4f55\u90ed\u91cc"
+        "name:zh": "\u4f55\u90ed\u91cc",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -58359,7 +58530,8 @@
         "name:en": "Hollywood Road",
         "name:zh": "\u8377\u674e\u6d3b\u9053",
         "oneway": "yes",
-        "surface": "concrete"
+        "surface": "concrete",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -58391,7 +58563,8 @@
         "highway": "footway",
         "name": "\u4e5d\u5982\u574a\u5317 Kau U Fong North",
         "name:en": "Kau U Fong North",
-        "name:zh": "\u4e5d\u5982\u574a\u5317"
+        "name:zh": "\u4e5d\u5982\u574a\u5317",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -58419,7 +58592,8 @@
         "highway": "footway",
         "name": "\u4e5d\u5982\u574a\u897f Kau U Fong West",
         "name:en": "Kau U Fong West",
-        "name:zh": "\u4e5d\u5982\u574a\u897f"
+        "name:zh": "\u4e5d\u5982\u574a\u897f",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -58443,7 +58617,8 @@
         "highway": "footway",
         "name": "\u4e5d\u5982\u574a\u897f Kau U Fong West",
         "name:en": "Kau U Fong West",
-        "name:zh": "\u4e5d\u5982\u574a\u897f"
+        "name:zh": "\u4e5d\u5982\u574a\u897f",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -58471,7 +58646,8 @@
         "highway": "footway",
         "name": "\u4e7e\u79c0\u91cc Kin Sau Lane",
         "name:en": "Kin Sau Lane",
-        "name:zh": "\u4e7e\u79c0\u91cc"
+        "name:zh": "\u4e7e\u79c0\u91cc",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -58495,7 +58671,8 @@
         "highway": "footway",
         "name": "\u5149\u6f22\u81fa Kwong Hon Terrace",
         "name:en": "Kwong Hon Terrace",
-        "name:zh": "\u5149\u6f22\u81fa"
+        "name:zh": "\u5149\u6f22\u81fa",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -58525,7 +58702,8 @@
         "name": "\u862d\u6842\u574a Lan Kwai Fong",
         "name:en": "Lan Kwai Fong",
         "name:ko": "\ub780\ucf70\uc774\ud401",
-        "name:zh": "\u862d\u6842\u574a"
+        "name:zh": "\u862d\u6842\u574a",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -58553,7 +58731,8 @@
         "highway": "footway",
         "name": "\u6881\u8f1d\u81fa Leung Fai Terrace",
         "name:en": "Leung Fai Terrace",
-        "name:zh": "\u6881\u8f1d\u81fa"
+        "name:zh": "\u6881\u8f1d\u81fa",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -58616,7 +58795,8 @@
         "highway": "footway",
         "name": "\u6587\u8208\u91cc Man Hing Lane",
         "name:en": "Man Hing Lane",
-        "name:zh": "\u6587\u8208\u91cc"
+        "name:zh": "\u6587\u8208\u91cc",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -58644,7 +58824,8 @@
         "highway": "pedestrian",
         "name": "\u842c\u5b9c\u91cc Man Yee Lane",
         "name:en": "Man Yee Lane",
-        "name:zh": "\u842c\u5b9c\u91cc"
+        "name:zh": "\u842c\u5b9c\u91cc",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -58672,7 +58853,8 @@
         "highway": "footway",
         "name": "\u7f8e\u81e3\u91cc Mason's Lane",
         "name:en": "Mason's Lane",
-        "name:zh": "\u7f8e\u81e3\u91cc"
+        "name:zh": "\u7f8e\u81e3\u91cc",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -58704,7 +58886,8 @@
         "highway": "steps",
         "name": "\u7f8e\u8f2a\u8857 Mee Lun Street",
         "name:en": "Mee Lun Street",
-        "name:zh": "\u7f8e\u8f2a\u8857"
+        "name:zh": "\u7f8e\u8f2a\u8857",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -58728,7 +58911,8 @@
         "highway": "steps",
         "name": "\u5b89\u6176\u81fa On Hing Terrace",
         "name:en": "On Hing Terrace",
-        "name:zh": "\u5b89\u6176\u81fa"
+        "name:zh": "\u5b89\u6176\u81fa",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -58752,7 +58936,8 @@
         "highway": "steps",
         "name": "\u5b89\u6176\u81fa On Hing Terrace",
         "name:en": "On Hing Terrace",
-        "name:zh": "\u5b89\u6176\u81fa"
+        "name:zh": "\u5b89\u6176\u81fa",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -58776,7 +58961,8 @@
         "highway": "footway",
         "name": "\u5b89\u6176\u81fa On Hing Terrace",
         "name:en": "On Hing Terrace",
-        "name:zh": "\u5b89\u6176\u81fa"
+        "name:zh": "\u5b89\u6176\u81fa",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -58804,7 +58990,8 @@
         "highway": "steps",
         "name": "\u5b89\u548c\u91cc On Wo Lane",
         "name:en": "On Wo Lane",
-        "name:zh": "\u5b89\u548c\u91cc"
+        "name:zh": "\u5b89\u548c\u91cc",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -58828,7 +59015,8 @@
         "highway": "footway",
         "name": "\u5b89\u548c\u91cc On Wo Lane",
         "name:en": "On Wo Lane",
-        "name:zh": "\u5b89\u548c\u91cc"
+        "name:zh": "\u5b89\u548c\u91cc",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -58852,7 +59040,8 @@
         "highway": "footway",
         "name": "\u767e\u5b50\u91cc Pak Tsz Lane",
         "name:en": "Pak Tsz Lane",
-        "name:zh": "\u767e\u5b50\u91cc"
+        "name:zh": "\u767e\u5b50\u91cc",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -58879,7 +59068,8 @@
         "name:en": "Pedder Street",
         "name:zh": "\u7562\u6253\u8857",
         "oneway": "yes",
-        "surface": "concrete"
+        "surface": "concrete",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -58918,7 +59108,8 @@
         "name:en": "Pedder Street",
         "name:zh": "\u7562\u6253\u8857",
         "oneway": "yes",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -59005,7 +59196,8 @@
       "properties": {
         "@id": "way/148461520",
         "highway": "footway",
-        "name": "Po Wah Street"
+        "name": "Po Wah Street",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -59096,7 +59288,8 @@
         "highway": "footway",
         "name": "\u592a\u5b50\u53f0 Prince's Terrace",
         "name:en": "Prince's Terrace",
-        "name:zh": "\u592a\u5b50\u53f0"
+        "name:zh": "\u592a\u5b50\u53f0",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -59120,7 +59313,8 @@
         "highway": "footway",
         "name": "\u5217\u62ff\u58eb\u5730\u81fa Rednaxela Terrace",
         "name:en": "Rednaxela Terrace",
-        "name:zh": "\u5217\u62ff\u58eb\u5730\u81fa"
+        "name:zh": "\u5217\u62ff\u58eb\u5730\u81fa",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -59144,7 +59338,8 @@
         "highway": "footway",
         "name": "\u4e09\u5bb6\u91cc Sam Ka Lane",
         "name:en": "Sam Ka Lane",
-        "name:zh": "\u4e09\u5bb6\u91cc"
+        "name:zh": "\u4e09\u5bb6\u91cc",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -59172,7 +59367,8 @@
         "highway": "steps",
         "name": "\u4e9b\u5229\u8857 Shelley Street",
         "name:en": "Shelley Street",
-        "name:zh": "\u4e9b\u5229\u8857"
+        "name:zh": "\u4e9b\u5229\u8857",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -59244,7 +59440,8 @@
         "highway": "steps",
         "name": "\u5584\u6176\u8857 Shin Hing Street",
         "name:en": "Shin Hing Street",
-        "name:zh": "\u5584\u6176\u8857"
+        "name:zh": "\u5584\u6176\u8857",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -59310,7 +59507,8 @@
         "name": "\u58eb\u4e39\u9813\u8857 Staunton Street",
         "name:en": "Staunton Street",
         "name:zh": "\u58eb\u4e39\u9813\u8857",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -59348,7 +59546,8 @@
         "name:en": "Staunton Street",
         "name:zh": "\u58eb\u4e39\u9813\u8857",
         "oneway": "yes",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -59400,7 +59599,8 @@
         "highway": "footway",
         "name": "\u58eb\u4ed6\u82b1\u5229\u8857 Staveley Street",
         "name:en": "Staveley Street",
-        "name:zh": "\u58eb\u4ed6\u82b1\u5229\u8857"
+        "name:zh": "\u58eb\u4ed6\u82b1\u5229\u8857",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -59424,7 +59624,8 @@
         "highway": "pedestrian",
         "name": "\u9435\u884c\u91cc Tit Hong Lane",
         "name:en": "Tit Hong Lane",
-        "name:zh": "\u9435\u884c\u91cc"
+        "name:zh": "\u9435\u884c\u91cc",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -59448,7 +59649,8 @@
         "highway": "footway",
         "name": "\u4fca\u69ae\u91cc Tsun Wing Lane",
         "name:en": "Tsun Wing Lane",
-        "name:zh": "\u4fca\u69ae\u91cc"
+        "name:zh": "\u4fca\u69ae\u91cc",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -59472,7 +59674,8 @@
         "highway": "footway",
         "name": "\u6566\u548c\u91cc Tun Wo Lane",
         "name:en": "Tun Wo Lane",
-        "name:zh": "\u6566\u548c\u91cc"
+        "name:zh": "\u6566\u548c\u91cc",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -59497,7 +59700,8 @@
         "highway": "pedestrian",
         "name": "\u540c\u6587\u8857 Tung Man Street",
         "name:en": "Tung Man Street",
-        "name:zh": "\u540c\u6587\u8857"
+        "name:zh": "\u540c\u6587\u8857",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -59549,7 +59753,8 @@
         "highway": "steps",
         "name": "\u83ef\u8ce2\u574a\u6771 Wa In Fong East",
         "name:en": "Wa In Fong East",
-        "name:zh": "\u83ef\u8ce2\u574a\u6771"
+        "name:zh": "\u83ef\u8ce2\u574a\u6771",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -59585,7 +59790,8 @@
         "highway": "steps",
         "name": "\u83ef\u8ce2\u574a\u897f Wa In Fong West",
         "name:en": "Wa In Fong West",
-        "name:zh": "\u83ef\u8ce2\u574a\u897f"
+        "name:zh": "\u83ef\u8ce2\u574a\u897f",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -59609,7 +59815,8 @@
         "highway": "footway",
         "name": "\u83ef\u5b89\u91cc Wa On Lane",
         "name:en": "Wa On Lane",
-        "name:zh": "\u83ef\u5b89\u91cc"
+        "name:zh": "\u83ef\u5b89\u91cc",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -59633,7 +59840,8 @@
         "highway": "footway",
         "name": "\u61f7\u5fb7\u91cc Wai Tak Lane",
         "name:en": "Wai Tak Lane",
-        "name:zh": "\u61f7\u5fb7\u91cc"
+        "name:zh": "\u61f7\u5fb7\u91cc",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -59663,7 +59871,8 @@
         "name:en": "Wellington Street",
         "name:zh": "\u5a01\u9748\u9813\u8857",
         "oneway": "yes",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -59712,7 +59921,8 @@
         "highway": "pedestrian",
         "name": "\u6c38\u5409\u8857 Wing Kut Street",
         "name:en": "Wing Kut Street",
-        "name:zh": "\u6c38\u5409\u8857"
+        "name:zh": "\u6c38\u5409\u8857",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -59737,7 +59947,8 @@
         "highway": "pedestrian",
         "name": "\u6c38\u5b89\u8857 Wing On Street",
         "name:en": "Wing On Street",
-        "name:zh": "\u6c38\u5b89\u8857"
+        "name:zh": "\u6c38\u5b89\u8857",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -59790,7 +60001,8 @@
         "highway": "footway",
         "name": "\u6d3b\u502b\u81fa Woodlands Terrace",
         "name:en": "Woodlands Terrace",
-        "name:zh": "\u6d3b\u502b\u81fa"
+        "name:zh": "\u6d3b\u502b\u81fa",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -59814,7 +60026,8 @@
         "highway": "footway",
         "name": "\u82f1\u8f1d\u81fa Ying Fai Terrace",
         "name:en": "Ying Fai Terrace",
-        "name:zh": "\u82f1\u8f1d\u81fa"
+        "name:zh": "\u82f1\u8f1d\u81fa",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -59850,7 +60063,8 @@
         "highway": "steps",
         "name": "\u6cc4\u862d\u8857 Zetland Street",
         "name:en": "Zetland Street",
-        "name:zh": "\u6cc4\u862d\u8857"
+        "name:zh": "\u6cc4\u862d\u8857",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -59874,7 +60088,8 @@
         "highway": "footway",
         "name": "\u6cc4\u862d\u8857 Zetland Street",
         "name:en": "Zetland Street",
-        "name:zh": "\u6cc4\u862d\u8857"
+        "name:zh": "\u6cc4\u862d\u8857",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -60581,7 +60796,8 @@
         "highway": "pedestrian",
         "name": "\u5fb7\u5fcc\u5229\u58eb\u5df7 Douglas Lane",
         "name:en": "Douglas Lane",
-        "name:zh": "\u5fb7\u5fcc\u5229\u58eb\u5df7"
+        "name:zh": "\u5fb7\u5fcc\u5229\u58eb\u5df7",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -61443,7 +61659,8 @@
         "name": "\u6ce2\u8001\u9053 Borrett Road",
         "name:en": "Borrett Road",
         "name:zh": "\u6ce2\u8001\u9053",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -61579,7 +61796,8 @@
         "name": "\u611b\u4e01\u5821\u5ee3\u5834 Edinburgh Place",
         "name:en": "Edinburgh Place",
         "name:zh": "\u611b\u4e01\u5821\u5ee3\u5834",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -61612,7 +61830,8 @@
         "oneway": "yes",
         "psv": "no",
         "sidewalk": "separate",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -61645,7 +61864,8 @@
         "name": "\u611b\u4e01\u5821\u5ee3\u5834 Edinburgh Place",
         "name:en": "Edinburgh Place",
         "name:zh": "\u611b\u4e01\u5821\u5ee3\u5834",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -61737,7 +61957,8 @@
         "name:en": "Fenwick Pier Street Flyover",
         "name:zh": "\u5206\u57df\u78bc\u982d\u8857\u5929\u6a4b",
         "oneway": "yes",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -62040,7 +62261,8 @@
         "name": "\u6f06\u54b8\u5f91 Chatham Path",
         "name:en": "Chatham Path",
         "name:zh": "\u6f06\u54b8\u5f91",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -62252,7 +62474,8 @@
         "name:en": "Yiu Sing Street",
         "name:zh": "\u8000\u661f\u8857",
         "oneway": "yes",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -62299,7 +62522,8 @@
         "name:en": "Bank Street",
         "name:zh": "\u9280\u884c\u8857",
         "oneway": "yes",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -62671,7 +62895,8 @@
         "highway": "footway",
         "name": "\u9577\u5b89\u91cc Cheung On Lane",
         "name:en": "Cheung On Lane",
-        "name:zh": "\u9577\u5b89\u91cc"
+        "name:zh": "\u9577\u5b89\u91cc",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -62759,7 +62984,8 @@
         "highway": "footway",
         "name": "\u9e79\u9b5a\u8857 Ham Yu Street",
         "name:en": "Ham Yu Street",
-        "name:zh": "\u9e79\u9b5a\u8857"
+        "name:zh": "\u9e79\u9b5a\u8857",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -62878,7 +63104,8 @@
         "highway": "footway",
         "name": "\u8208\u9686\u6771\u8857 Hing Lung Lane East",
         "name:en": "Hing Lung Lane East",
-        "name:zh": "\u8208\u9686\u6771\u8857"
+        "name:zh": "\u8208\u9686\u6771\u8857",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -62902,7 +63129,8 @@
         "highway": "footway",
         "name": "\u8208\u9686\u897f\u8857 Hing Lung Lane West",
         "name:en": "Hing Lung Lane West",
-        "name:zh": "\u8208\u9686\u897f\u8857"
+        "name:zh": "\u8208\u9686\u897f\u8857",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -62950,7 +63178,8 @@
         "highway": "footway",
         "name": "\u5c45\u4ec1\u91cc Kui Yan Lane",
         "name:en": "Kui Yan Lane",
-        "name:zh": "\u5c45\u4ec1\u91cc"
+        "name:zh": "\u5c45\u4ec1\u91cc",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -62974,7 +63203,8 @@
         "highway": "footway",
         "name": "\u90ed\u8208\u91cc Kwok Hing Lane",
         "name:en": "Kwok Hing Lane",
-        "name:zh": "\u90ed\u8208\u91cc"
+        "name:zh": "\u90ed\u8208\u91cc",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -62998,7 +63228,8 @@
         "highway": "footway",
         "name": "\u8354\u5b89\u91cc Lai On Lane",
         "name:en": "Lai On Lane",
-        "name:zh": "\u8354\u5b89\u91cc"
+        "name:zh": "\u8354\u5b89\u91cc",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -63022,7 +63253,8 @@
         "highway": "steps",
         "name": "\u5169\u5100\u574a Leung I Fong",
         "name:en": "Leung I Fong",
-        "name:zh": "\u5169\u5100\u574a"
+        "name:zh": "\u5169\u5100\u574a",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -63047,7 +63279,8 @@
         "name": "\u6469\u7f85\u4e0b\u8857 Lower Lascar Row",
         "name:en": "Lower Lascar Row",
         "name:zh": "\u6469\u7f85\u4e0b\u8857",
-        "surface": "paved"
+        "surface": "paved",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -63114,7 +63347,8 @@
         "name:zh": "\u6885\u82b3\u8857",
         "oneway": "yes",
         "surface": "concrete",
-        "vehicle": "permissive"
+        "vehicle": "permissive",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -63138,7 +63372,8 @@
         "highway": "footway",
         "name": "\u4e94\u798f\u91cc Ng Fuk Lane",
         "name:en": "Ng Fuk Lane",
-        "name:zh": "\u4e94\u798f\u91cc"
+        "name:zh": "\u4e94\u798f\u91cc",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -63163,7 +63398,8 @@
         "name": "\u4e94\u6842\u574a Ng Kwai Fong",
         "name:en": "Ng Kwai Fong",
         "name:zh": "\u4e94\u6842\u574a",
-        "surface": "paved"
+        "surface": "paved",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -63187,7 +63423,8 @@
         "highway": "footway",
         "name": "\u5b89\u5be7\u91cc On Ning Lane",
         "name:en": "On Ning Lane",
-        "name:zh": "\u5b89\u5be7\u91cc"
+        "name:zh": "\u5b89\u5be7\u91cc",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -63217,7 +63454,8 @@
         "name": "\u5b89\u6cf0\u8857 On Tai Street",
         "name:en": "On Tai Street",
         "name:zh": "\u5b89\u6cf0\u8857",
-        "surface": "paved"
+        "surface": "paved",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -63290,7 +63528,8 @@
         "highway": "steps",
         "name": "\u84b2\u98db\u5f91 Pokfield Path",
         "name:en": "Pokfield Path",
-        "name:zh": "\u84b2\u98db\u5f91"
+        "name:zh": "\u84b2\u98db\u5f91",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -63314,7 +63553,8 @@
         "highway": "footway",
         "name": "\u84b2\u98db\u5f91 Pokfield Path",
         "name:en": "Pokfield Path",
-        "name:zh": "\u84b2\u98db\u5f91"
+        "name:zh": "\u84b2\u98db\u5f91",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -63358,7 +63598,8 @@
         "name:zh": "\u6c34\u5751\u53e3\u8857",
         "oneway": "yes",
         "surface": "asphalt",
-        "tourism": "yes"
+        "tourism": "yes",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -63426,7 +63667,8 @@
         "highway": "footway",
         "name": "\u73ab\u7470\u91cc Rose Lane",
         "name:en": "Rose Lane",
-        "name:zh": "\u73ab\u7470\u91cc"
+        "name:zh": "\u73ab\u7470\u91cc",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -63450,7 +63692,8 @@
         "highway": "footway",
         "name": "\u897f\u8208\u91cc Sai Hing Lane",
         "name:en": "Sai Hing Lane",
-        "name:zh": "\u897f\u8208\u91cc"
+        "name:zh": "\u897f\u8208\u91cc",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -63475,7 +63718,8 @@
         "name": "\u897f\u6e56\u91cc Sai Woo Lane",
         "name:en": "Sai Woo Lane",
         "name:zh": "\u897f\u6e56\u91cc",
-        "surface": "concrete"
+        "surface": "concrete",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -63499,7 +63743,8 @@
         "highway": "footway",
         "name": "\u4e09\u591a\u91cc Sam To Lane",
         "name:en": "Sam To Lane",
-        "name:zh": "\u4e09\u591a\u91cc"
+        "name:zh": "\u4e09\u591a\u91cc",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -63527,7 +63772,8 @@
         "highway": "footway",
         "name": "\u77f3\u68e7\u91cc Shek Chan Lane",
         "name:en": "Shek Chan Lane",
-        "name:zh": "\u77f3\u68e7\u91cc"
+        "name:zh": "\u77f3\u68e7\u91cc",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -63555,7 +63801,8 @@
         "highway": "steps",
         "name": "\u5e38\u8c50\u91cc Sheung Fung Lane",
         "name:en": "Sheung Fung Lane",
-        "name:zh": "\u5e38\u8c50\u91cc"
+        "name:zh": "\u5e38\u8c50\u91cc",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -63580,7 +63827,8 @@
         "name": "\u5146\u7965\u574a Siu Cheung Fong",
         "name:en": "Siu Cheung Fong",
         "name:zh": "\u5146\u7965\u574a",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -63604,7 +63852,8 @@
         "highway": "footway",
         "name": "\u8b5a\u91cc Tam Lane",
         "name:en": "Tam Lane",
-        "name:zh": "\u8b5a\u91cc"
+        "name:zh": "\u8b5a\u91cc",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -63714,7 +63963,8 @@
         "name": "\u7d2b\u8587\u8857 Tsz Mi Alley",
         "name:en": "Tsz Mi Alley",
         "name:zh": "\u7d2b\u8587\u8857",
-        "surface": "concrete"
+        "surface": "concrete",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -63738,7 +63988,8 @@
         "highway": "footway",
         "name": "\u6771\u4f86\u91cc Tung Loi Lane",
         "name:en": "Tung Loi Lane",
-        "name:zh": "\u6771\u4f86\u91cc"
+        "name:zh": "\u6771\u4f86\u91cc",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -63763,7 +64014,8 @@
         "name": "\u6771\u4f86\u91cc Tung Loi Lane",
         "name:en": "Tung Loi Lane",
         "name:zh": "\u6771\u4f86\u91cc",
-        "surface": "paved"
+        "surface": "paved",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -63795,7 +64047,8 @@
         "highway": "steps",
         "name": "\u532f\u5b89\u91cc Ui On Lane",
         "name:en": "Ui On Lane",
-        "name:zh": "\u532f\u5b89\u91cc"
+        "name:zh": "\u532f\u5b89\u91cc",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -63819,7 +64072,8 @@
         "highway": "footway",
         "name": "\u5143\u798f\u91cc Un Fuk Lane",
         "name:en": "Un Fuk Lane",
-        "name:zh": "\u5143\u798f\u91cc"
+        "name:zh": "\u5143\u798f\u91cc",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -63843,7 +64097,8 @@
         "highway": "footway",
         "name": "\u5143\u798f\u91cc Un Fuk Lane",
         "name:en": "Un Fuk Lane",
-        "name:zh": "\u5143\u798f\u91cc"
+        "name:zh": "\u5143\u798f\u91cc",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -63867,7 +64122,8 @@
         "highway": "footway",
         "name": "\u5143\u52dd\u91cc Un Shing Lane",
         "name:en": "Un Shing Lane",
-        "name:zh": "\u5143\u52dd\u91cc"
+        "name:zh": "\u5143\u52dd\u91cc",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -63899,7 +64155,8 @@
         "name:zh": "\u57df\u591a\u5229\u9053",
         "oneway": "yes",
         "source": "yahoo_imagery",
-        "surface": "concrete"
+        "surface": "concrete",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -63936,7 +64193,8 @@
         "name": "\u83ef\u91cc Wa Lane",
         "name:en": "Wa Lane",
         "name:zh": "\u83ef\u91cc",
-        "surface": "paved"
+        "surface": "paved",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -63960,7 +64218,8 @@
         "highway": "footway",
         "name": "\u897f\u5c3e\u9053 West End Path",
         "name:en": "West End Path",
-        "name:zh": "\u897f\u5c3e\u9053"
+        "name:zh": "\u897f\u5c3e\u9053",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -63984,7 +64243,8 @@
         "highway": "footway",
         "name": "\u7531\u7fa9\u91cc Yau Yee Lane",
         "name:en": "Yau Yee Lane",
-        "name:zh": "\u7531\u7fa9\u91cc"
+        "name:zh": "\u7531\u7fa9\u91cc",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -64012,7 +64272,8 @@
         "highway": "footway",
         "name": "\u9918\u6a02\u91cc Yu Lok Lane",
         "name:en": "Yu Lok Lane",
-        "name:zh": "\u9918\u6a02\u91cc"
+        "name:zh": "\u9918\u6a02\u91cc",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -64036,7 +64297,8 @@
         "highway": "steps",
         "name": "\u6bd3\u79c0\u91cc Yuk Sau Lane",
         "name:en": "Yuk Sau Lane",
-        "name:zh": "\u6bd3\u79c0\u91cc"
+        "name:zh": "\u6bd3\u79c0\u91cc",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -64367,7 +64629,8 @@
         "highway": "footway",
         "name": "\u96c0\u4ed4\u6a4b Bird Bridge",
         "name:en": "Bird Bridge",
-        "name:zh": "\u96c0\u4ed4\u6a4b"
+        "name:zh": "\u96c0\u4ed4\u6a4b",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -64951,7 +65214,8 @@
         "name": "\u767d\u52a0\u9053 Barker Road",
         "name:en": "Barker Road",
         "name:zh": "\u767d\u52a0\u9053",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -65493,7 +65757,8 @@
         "name": "\u6ce2\u8001\u9053 Borrett Road",
         "name:en": "Borrett Road",
         "name:zh": "\u6ce2\u8001\u9053",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -65571,7 +65836,8 @@
         "name:en": "Borrett Road",
         "name:zh": "\u6ce2\u8001\u9053",
         "oneway": "yes",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -65799,7 +66065,8 @@
         "name": "\u84b2\u9b6f\u8ce2\u5f91 Brewin Path",
         "name:en": "Brewin Path",
         "name:zh": "\u84b2\u9b6f\u8ce2\u5f91",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -65859,7 +66126,8 @@
         "highway": "residential",
         "name": "\u9ad8\u5316\u5229\u5f91 Clovelly Path",
         "name:en": "Clovelly Path",
-        "name:zh": "\u9ad8\u5316\u5229\u5f91"
+        "name:zh": "\u9ad8\u5316\u5229\u5f91",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -65896,7 +66164,8 @@
         "name": "\u82ac\u68a8\u9053 Findlay Road",
         "name:en": "Findlay Road",
         "name:zh": "\u82ac\u68a8\u9053",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -65965,7 +66234,8 @@
         "name": "\u96f7\u4e39\u5f4c\u5f91 Lloyd Path",
         "name:en": "Lloyd Path",
         "name:zh": "\u96f7\u4e39\u5f4c\u5f91",
-        "service": "driveway"
+        "service": "driveway",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -66830,7 +67100,8 @@
         "name": "\u6885\u9053 May Road",
         "name:en": "May Road",
         "name:zh": "\u6885\u9053",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -66869,7 +67140,8 @@
         "name": "\u67ef\u58eb\u7538\u5c71\u9053 Mount Austin Road",
         "name:en": "Mount Austin Road",
         "name:zh": "\u67ef\u58eb\u7538\u5c71\u9053",
-        "surface": "concrete"
+        "surface": "concrete",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -66922,7 +67194,8 @@
         "maxweight": "3",
         "name": "\u6469\u661f\u5dba\u5f91 Mount Davis Path",
         "name:en": "Mount Davis Path",
-        "name:zh": "\u6469\u661f\u5dba\u5f91"
+        "name:zh": "\u6469\u661f\u5dba\u5f91",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -67077,7 +67350,8 @@
         "name": "\u7a2e\u690d\u9053 Plantation Road",
         "name:en": "Plantation Road",
         "name:zh": "\u7a2e\u690d\u9053",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -67291,7 +67565,8 @@
         "name:en": "Plunketts Road",
         "name:zh": "\u8cd3\u5409\u9053",
         "oneway": "yes",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -67339,7 +67614,8 @@
         "highway": "residential",
         "name": "\u666e\u6a02\u9053 Pollock's Path",
         "name:en": "Pollock's Path",
-        "name:zh": "\u666e\u6a02\u9053"
+        "name:zh": "\u666e\u6a02\u9053",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -67410,7 +67686,8 @@
         "name": "\u5927\u53e3\u74b0\u9053 Sandy Bay Road",
         "name:en": "Sandy Bay Road",
         "name:zh": "\u5927\u53e3\u74b0\u9053",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -67482,7 +67759,8 @@
         "highway": "residential",
         "name": "\u5927\u53e3\u74b0\u9053 Sandy Bay Road",
         "name:en": "Sandy Bay Road",
-        "name:zh": "\u5927\u53e3\u74b0\u9053"
+        "name:zh": "\u5927\u53e3\u74b0\u9053",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -67617,7 +67895,8 @@
         "name:en": "Severn Road",
         "name:zh": "\u65bd\u52f3\u9053",
         "oneway": "yes",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -67850,7 +68129,8 @@
         "name": "\u5730\u5229\u6839\u5fb7\u91cc Tregunter Path",
         "name:en": "Tregunter Path",
         "name:zh": "\u5730\u5229\u6839\u5fb7\u91cc",
-        "oneway": "yes"
+        "oneway": "yes",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -67911,7 +68191,8 @@
         "name:zh": "\u57df\u591a\u5229\u9053",
         "oneway": "yes",
         "source": "yahoo_imagery",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -67988,7 +68269,8 @@
         "name:en": "Victoria Road",
         "name:zh": "\u57df\u591a\u5229\u9053",
         "source": "yahoo_imagery",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -69862,7 +70144,8 @@
         "highway": "unclassified",
         "name": "\u5730\u5229\u6839\u5fb7\u91cc Tregunter Path",
         "name:en": "Tregunter Path",
-        "name:zh": "\u5730\u5229\u6839\u5fb7\u91cc"
+        "name:zh": "\u5730\u5229\u6839\u5fb7\u91cc",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -70364,7 +70647,8 @@
         "name:en": "Yiu Sing Street",
         "name:zh": "\u8000\u661f\u8857",
         "oneway": "yes",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -70419,7 +70703,8 @@
         "oneway": "yes",
         "ref": "4",
         "surface": "asphalt",
-        "toll": "yes"
+        "toll": "yes",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -70886,7 +71171,8 @@
         "name:en": "Yiu Sing Street",
         "name:zh": "\u8000\u661f\u8857",
         "oneway": "yes",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -70962,7 +71248,8 @@
         "name:zh": "\u8000\u661f\u8857",
         "oneway": "yes",
         "sidewalk": "left",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -71006,7 +71293,8 @@
         "name:zh": "\u8000\u661f\u8857",
         "oneway": "yes",
         "sidewalk": "left",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -71145,7 +71433,8 @@
         "name:en": "Yiu Sing Street",
         "name:zh": "\u8000\u661f\u8857",
         "oneway": "yes",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -74004,7 +74293,8 @@
         "highway": "steps",
         "name": "Sun Yat-sen Steps \u4e2d\u5c71\u968e",
         "name:en": "Sun Yat-sen Steps",
-        "name:zh": "\u4e2d\u5c71\u968e"
+        "name:zh": "\u4e2d\u5c71\u968e",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -74363,7 +74653,8 @@
         "name": "\u5149\u666f\u81fa Prospect Place",
         "name:en": "Prospect Place",
         "name:zh": "\u5149\u666f\u81fa",
-        "surface": "concrete"
+        "surface": "concrete",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -75877,7 +76168,8 @@
         "highway": "footway",
         "name": "\u5927\u5b78\u8857 University Street",
         "name:en": "University Street",
-        "name:zh": "\u5927\u5b78\u8857"
+        "name:zh": "\u5927\u5b78\u8857",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -75902,7 +76194,8 @@
         "highway": "footway",
         "name": "\u5927\u5b78\u8857 University Street",
         "name:en": "University Street",
-        "name:zh": "\u5927\u5b78\u8857"
+        "name:zh": "\u5927\u5b78\u8857",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -75929,7 +76222,8 @@
         "layer": "1",
         "name": "\u5927\u5b78\u8857 University Street",
         "name:en": "University Street",
-        "name:zh": "\u5927\u5b78\u8857"
+        "name:zh": "\u5927\u5b78\u8857",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -75963,7 +76257,8 @@
         "layer": "1",
         "name": "\u5927\u5b78\u8857 University Street",
         "name:en": "University Street",
-        "name:zh": "\u5927\u5b78\u8857"
+        "name:zh": "\u5927\u5b78\u8857",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -76486,7 +76781,8 @@
         "highway": "footway",
         "name": "\u8377\u862d\u5f91 Dutch Lane",
         "name:en": "Dutch Lane",
-        "name:zh": "\u8377\u862d\u5f91"
+        "name:zh": "\u8377\u862d\u5f91",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -76626,7 +76922,8 @@
         "highway": "footway",
         "name": "\u6587\u793e\u91cc Man She Lane",
         "name:en": "Man She Lane",
-        "name:zh": "\u6587\u793e\u91cc"
+        "name:zh": "\u6587\u793e\u91cc",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -78165,7 +78462,8 @@
         "layer": "1",
         "name": "\u4e2d\u5340\u884c\u4eba\u5929\u6a4b\u4e2d\u74b0\u7cfb\u7d71 Central Elevated Walkway (Central System)",
         "name:en": "Central Elevated Walkway (Central System)",
-        "name:zh": "\u4e2d\u5340\u884c\u4eba\u5929\u6a4b\u4e2d\u74b0\u7cfb\u7d71"
+        "name:zh": "\u4e2d\u5340\u884c\u4eba\u5929\u6a4b\u4e2d\u74b0\u7cfb\u7d71",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -78301,7 +78599,8 @@
         "name": "\u6ce2\u8001\u9053 Borrett Road",
         "name:en": "Borrett Road",
         "name:zh": "\u6ce2\u8001\u9053",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -78613,7 +78912,8 @@
         "highway": "footway",
         "name": "\u96c0\u4ed4\u6a4b Bird Bridge",
         "name:en": "Bird Bridge",
-        "name:zh": "\u96c0\u4ed4\u6a4b"
+        "name:zh": "\u96c0\u4ed4\u6a4b",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -78937,7 +79237,8 @@
         "highway": "pedestrian",
         "name": "\u5fb7\u5fcc\u5229\u58eb\u8857 Douglas Street",
         "name:en": "Douglas Street",
-        "name:zh": "\u5fb7\u5fcc\u5229\u58eb\u8857"
+        "name:zh": "\u5fb7\u5fcc\u5229\u58eb\u8857",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -79075,7 +79376,8 @@
         "name:en": "Arbuthnot Road",
         "name:zh": "\u4e9e\u7562\u8afe\u9053",
         "oneway": "yes",
-        "surface": "concrete"
+        "surface": "concrete",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -79112,7 +79414,8 @@
         "name": "\u548c\u5b89\u91cc Wo On Lane",
         "name:en": "Wo On Lane",
         "name:zh": "\u548c\u5b89\u91cc",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -79146,7 +79449,8 @@
         "name": "\u4e9e\u7562\u8afe\u9053 Arbuthnot Road",
         "name:en": "Arbuthnot Road",
         "name:zh": "\u4e9e\u7562\u8afe\u9053",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -81738,7 +82042,8 @@
         "name:en": "Victoria Road",
         "name:zh": "\u57df\u591a\u5229\u9053",
         "source": "yahoo_imagery",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -81923,7 +82228,8 @@
         "highway": "steps",
         "name": "\u58eb\u4ed6\u82b1\u5229\u8857 Staveley Street",
         "name:en": "Staveley Street",
-        "name:zh": "\u58eb\u4ed6\u82b1\u5229\u8857"
+        "name:zh": "\u58eb\u4ed6\u82b1\u5229\u8857",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -82126,7 +82432,8 @@
         "highway": "steps",
         "name": "\u82f1\u83ef\u81fa Ying Wa Terrace",
         "name:en": "Ying Wa Terrace",
-        "name:zh": "\u82f1\u83ef\u81fa"
+        "name:zh": "\u82f1\u83ef\u81fa",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -83175,7 +83482,8 @@
         "name:en": "Hillier Street",
         "name:zh": "\u79a7\u5229\u8857",
         "oneway": "yes",
-        "surface": "concrete"
+        "surface": "concrete",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -85541,7 +85849,8 @@
         "name:en": "Pedder Street",
         "name:zh": "\u7562\u6253\u8857",
         "oneway": "yes",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -85587,7 +85896,8 @@
         "highway": "footway",
         "name": "\u4f9d\u5229\u611b\u9053 Elliot Crescent",
         "name:en": "Elliot Crescent",
-        "name:zh": "\u4f9d\u5229\u611b\u9053"
+        "name:zh": "\u4f9d\u5229\u611b\u9053",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -88781,7 +89091,8 @@
         "name:en": "Hollywood Road",
         "name:zh": "\u8377\u674e\u6d3b\u9053",
         "oneway": "yes",
-        "surface": "concrete"
+        "surface": "concrete",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -88823,7 +89134,8 @@
         "name:en": "Wellington Street",
         "name:zh": "\u5a01\u9748\u9813\u8857",
         "oneway": "yes",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -90112,7 +90424,8 @@
         "name:zh": "\u4e2d\u74b0\u53ca\u7063\u4ed4\u7e5e\u9053",
         "oneway": "yes",
         "ref": "4",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -90180,7 +90493,8 @@
         "oneway": "yes",
         "ref": "4",
         "surface": "asphalt",
-        "tunnel": "yes"
+        "tunnel": "yes",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -90257,7 +90571,8 @@
         "name:zh": "\u4e2d\u74b0\u53ca\u7063\u4ed4\u7e5e\u9053",
         "oneway": "yes",
         "ref": "4",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -90293,7 +90608,8 @@
         "name:zh": "\u4e2d\u74b0\u53ca\u7063\u4ed4\u7e5e\u9053",
         "oneway": "yes",
         "ref": "4",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -90614,7 +90930,8 @@
         "highway": "pedestrian",
         "name": "\u70ae\u53f0\u91cc Battery Path",
         "name:en": "Battery Path",
-        "name:zh": "\u70ae\u53f0\u91cc"
+        "name:zh": "\u70ae\u53f0\u91cc",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -90647,7 +90964,8 @@
         "name": "\u70ae\u53f0\u91cc Battery Path",
         "name:en": "Battery Path",
         "name:zh": "\u70ae\u53f0\u91cc",
-        "vehicle": "private"
+        "vehicle": "private",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -92499,7 +92817,8 @@
         "name:en": "Lugard Road",
         "name:zh": "\u76e7\u5409\u9053",
         "source": "Bing",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -94190,7 +94509,8 @@
         "highway": "steps",
         "name": "\u84b2\u98db\u5f91 Pokfield Path",
         "name:en": "Pokfield Path",
-        "name:zh": "\u84b2\u98db\u5f91"
+        "name:zh": "\u84b2\u98db\u5f91",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -94214,7 +94534,8 @@
         "highway": "steps",
         "name": "\u592a\u767d\u81fa Tai Pak Terrace",
         "name:en": "Tai Pak Terrace",
-        "name:zh": "\u592a\u767d\u81fa"
+        "name:zh": "\u592a\u767d\u81fa",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -96300,7 +96621,8 @@
         "name": "\u8584\u6276\u6797\u6c34\u5858\u9053 Pok Fu Lam Reservoir Road",
         "name:en": "Pok Fu Lam Reservoir Road",
         "name:zh": "\u8584\u6276\u6797\u6c34\u5858\u9053",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -96520,7 +96842,8 @@
         "highway": "pedestrian",
         "name": "\u7cbe\u7dfb\u81fa Beautiful Terrace",
         "name:en": "Beautiful Terrace",
-        "name:zh": "\u7cbe\u7dfb\u81fa"
+        "name:zh": "\u7cbe\u7dfb\u81fa",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -96765,7 +97088,8 @@
         "name:en": "Lugard Road",
         "name:zh": "\u76e7\u5409\u9053",
         "source": "Bing",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -96907,7 +97231,8 @@
         "highway": "footway",
         "name": "\u897f\u5eb7\u91cc Sai Hong Lane",
         "name:en": "Sai Hong Lane",
-        "name:zh": "\u897f\u5eb7\u91cc"
+        "name:zh": "\u897f\u5eb7\u91cc",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -98007,7 +98332,8 @@
         "highway": "steps",
         "name": "\u5b89\u5be7\u91cc On Ning Lane",
         "name:en": "On Ning Lane",
-        "name:zh": "\u5b89\u5be7\u91cc"
+        "name:zh": "\u5b89\u5be7\u91cc",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -99042,7 +99368,8 @@
         "highway": "steps",
         "name": "Pinewood Battery Heritage Trail \u677e\u6797\u5ee2\u5821\u6b77\u53f2\u5f91",
         "name:en": "Pinewood Battery Heritage Trail",
-        "name:zh": "\u677e\u6797\u5ee2\u5821\u6b77\u53f2\u5f91"
+        "name:zh": "\u677e\u6797\u5ee2\u5821\u6b77\u53f2\u5f91",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -99342,7 +99669,8 @@
       "properties": {
         "@id": "way/340613377",
         "highway": "path",
-        "name": "\u5f35\u4fdd\u4ed4\u53e4\u9053"
+        "name": "\u5f35\u4fdd\u4ed4\u53e4\u9053",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -99790,7 +100118,8 @@
       "properties": {
         "@id": "way/342065271",
         "highway": "path",
-        "name": "\u5f35\u4fdd\u4ed4\u53e4\u9053"
+        "name": "\u5f35\u4fdd\u4ed4\u53e4\u9053",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -102652,7 +102981,8 @@
         "highway": "footway",
         "name": "\u96f7\u4e39\u5f4c\u5f91 Lloyd Path",
         "name:en": "Lloyd Path",
-        "name:zh": "\u96f7\u4e39\u5f4c\u5f91"
+        "name:zh": "\u96f7\u4e39\u5f4c\u5f91",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -103768,7 +104098,8 @@
         "highway": "footway",
         "name": "\u5112\u6797\u81fa U Lam Terrace",
         "name:en": "U Lam Terrace",
-        "name:zh": "\u5112\u6797\u81fa"
+        "name:zh": "\u5112\u6797\u81fa",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -103793,7 +104124,8 @@
         "name": "\u6469\u7f85\u4e0b\u8857 Lower Lascar Row",
         "name:en": "Lower Lascar Row",
         "name:zh": "\u6469\u7f85\u4e0b\u8857",
-        "surface": "paved"
+        "surface": "paved",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -103928,7 +104260,8 @@
         "name:en": "Yiu Sing Street",
         "name:zh": "\u8000\u661f\u8857",
         "oneway": "yes",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -104648,7 +104981,8 @@
         "name:zh": "\u57df\u591a\u5229\u9053",
         "oneway": "yes",
         "source": "yahoo_imagery",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -105217,7 +105551,8 @@
         "highway": "footway",
         "name": "\u6843\u674e\u81fa To Li Terrace",
         "name:en": "To Li Terrace",
-        "name:zh": "\u6843\u674e\u81fa"
+        "name:zh": "\u6843\u674e\u81fa",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -105245,7 +105580,8 @@
         "highway": "footway",
         "name": "\u9752\u84ee\u81fa Ching Lin Terrace",
         "name:en": "Ching Lin Terrace",
-        "name:zh": "\u9752\u84ee\u81fa"
+        "name:zh": "\u9752\u84ee\u81fa",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -105274,7 +105610,8 @@
         "name": "\u5c4b\u862d\u58eb\u8857 Oaklands Avenue",
         "name:en": "Oaklands Avenue",
         "name:zh": "\u5c4b\u862d\u58eb\u8857",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -105761,7 +106098,8 @@
         "name:en": "Man Po Street",
         "name:zh": "\u6c11\u5bf6\u8857",
         "oneway": "yes",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -107599,7 +107937,8 @@
         "name": "\u67ef\u58eb\u7538\u5c71\u9053 Mount Austin Road",
         "name:en": "Mount Austin Road",
         "name:zh": "\u67ef\u58eb\u7538\u5c71\u9053",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -108197,7 +108536,8 @@
         "name": "\u67ef\u58eb\u7538\u5c71\u9053 Mount Austin Road",
         "name:en": "Mount Austin Road",
         "name:zh": "\u67ef\u58eb\u7538\u5c71\u9053",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -108505,7 +108845,8 @@
         "name:en": "Pedder Street",
         "name:zh": "\u7562\u6253\u8857",
         "oneway": "yes",
-        "surface": "concrete"
+        "surface": "concrete",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -110526,7 +110867,8 @@
         "lanes": "1",
         "name": "\u8000\u661f\u8857 Yiu Sing Street",
         "oneway": "yes",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -111040,7 +111382,8 @@
         "name:en": "Eastern Street North",
         "name:zh": "\u6771\u908a\u8857\u5317",
         "oneway": "yes",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -111083,7 +111426,8 @@
         "name:en": "Eastern Street North",
         "name:zh": "\u6771\u908a\u8857\u5317",
         "oneway": "yes",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -111752,7 +112096,8 @@
         "highway": "pedestrian",
         "name": "\u9577\u5e9a\u91cc Cheung Kan Lane",
         "name:en": "Cheung Kan Lane",
-        "name:zh": "\u9577\u5e9a\u91cc"
+        "name:zh": "\u9577\u5e9a\u91cc",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -112388,7 +112733,8 @@
         "name:en": "Sutherland Street",
         "name:zh": "\u4fee\u6253\u862d\u8857",
         "service": "alley",
-        "surface": "concrete"
+        "surface": "concrete",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -112495,7 +112841,8 @@
         "name:en": "Kwai Heung Street",
         "name:zh": "\u6842\u9999\u8857",
         "oneway": "yes",
-        "surface": "concrete"
+        "surface": "concrete",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -113290,7 +113637,8 @@
         "incline": "up",
         "name": "\u798f\u5b89\u91cc Fuk On Lane",
         "name:en": "Fuk On Lane",
-        "name:zh": "\u798f\u5b89\u91cc"
+        "name:zh": "\u798f\u5b89\u91cc",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -113314,7 +113662,8 @@
         "highway": "footway",
         "name": "\u798f\u5b89\u91cc Fuk On Lane",
         "name:en": "Fuk On Lane",
-        "name:zh": "\u798f\u5b89\u91cc"
+        "name:zh": "\u798f\u5b89\u91cc",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -113339,7 +113688,8 @@
         "incline": "up",
         "name": "\u798f\u5b89\u91cc Fuk On Lane",
         "name:en": "Fuk On Lane",
-        "name:zh": "\u798f\u5b89\u91cc"
+        "name:zh": "\u798f\u5b89\u91cc",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -113364,7 +113714,8 @@
         "name": "\u6885\u9053 May Road",
         "name:en": "May Road",
         "name:zh": "\u6885\u9053",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -113600,7 +113951,8 @@
         "highway": "footway",
         "name": "\u84b2\u9b6f\u8ce2\u5f91 Brewin Path",
         "name:en": "Brewin Path",
-        "name:zh": "\u84b2\u9b6f\u8ce2\u5f91"
+        "name:zh": "\u84b2\u9b6f\u8ce2\u5f91",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -113909,7 +114261,8 @@
         "highway": "steps",
         "name": "\u6b4c\u8001\u6253\u8def Calder Path",
         "name:en": "Calder Path",
-        "name:zh": "\u6b4c\u8001\u6253\u8def"
+        "name:zh": "\u6b4c\u8001\u6253\u8def",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -114470,7 +114823,8 @@
         "layer": "1",
         "name": "\u5927\u5b78\u8857 University Street",
         "name:en": "University Street",
-        "name:zh": "\u5927\u5b78\u8857"
+        "name:zh": "\u5927\u5b78\u8857",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -114494,7 +114848,8 @@
         "highway": "footway",
         "name": "\u5927\u5b78\u8857 University Street",
         "name:en": "University Street",
-        "name:zh": "\u5927\u5b78\u8857"
+        "name:zh": "\u5927\u5b78\u8857",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -115451,7 +115806,8 @@
         "name": "\u4e94\u6842\u574a Ng Kwai Fong",
         "name:en": "Ng Kwai Fong",
         "name:zh": "\u4e94\u6842\u574a",
-        "surface": "paved"
+        "surface": "paved",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -115476,7 +115832,8 @@
         "name": "\u83ef\u91cc Wa Lane",
         "name:en": "Wa Lane",
         "name:zh": "\u83ef\u91cc",
-        "surface": "paved"
+        "surface": "paved",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -115505,7 +115862,8 @@
         "name": "\u83ef\u91cc Wa Lane",
         "name:en": "Wa Lane",
         "name:zh": "\u83ef\u91cc",
-        "surface": "paved"
+        "surface": "paved",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -115530,7 +115888,8 @@
         "name": "\u6469\u7f85\u4e0b\u8857 Lower Lascar Row",
         "name:en": "Lower Lascar Row",
         "name:zh": "\u6469\u7f85\u4e0b\u8857",
-        "surface": "paved"
+        "surface": "paved",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -118890,7 +119249,8 @@
         "name": "\u6885\u9053 May Road",
         "name:en": "May Road",
         "name:zh": "\u6885\u9053",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -118944,7 +119304,8 @@
         "highway": "pedestrian",
         "name": "\u70ae\u53f0\u91cc Battery Path",
         "name:en": "Battery Path",
-        "name:zh": "\u70ae\u53f0\u91cc"
+        "name:zh": "\u70ae\u53f0\u91cc",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -119639,7 +120000,8 @@
         "name:en": "Bonham Strand West",
         "name:zh": "\u6587\u54b8\u897f\u8857",
         "oneway": "yes",
-        "surface": "concrete"
+        "surface": "concrete",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -119950,7 +120312,8 @@
         "name:en": "Lugard Road",
         "name:zh": "\u76e7\u5409\u9053",
         "source": "Bing",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -120017,7 +120380,8 @@
         "name:zh": "\u76e7\u5409\u9053",
         "source": "Bing",
         "surface": "asphalt",
-        "vehicle": "no"
+        "vehicle": "no",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -120590,7 +120954,8 @@
         "name:zh": "\u4e2d\u74b0\u53ca\u7063\u4ed4\u7e5e\u9053",
         "oneway": "yes",
         "ref": "4",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -120620,7 +120985,8 @@
         "name:zh": "\u4e2d\u74b0\u53ca\u7063\u4ed4\u7e5e\u9053",
         "oneway": "yes",
         "ref": "4",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -121501,7 +121867,8 @@
         "name:en": "Yiu Sing Street",
         "name:zh": "\u8000\u661f\u8857",
         "oneway": "yes",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -121557,7 +121924,8 @@
         "name:en": "Yiu Sing Street",
         "name:zh": "\u8000\u661f\u8857",
         "oneway": "yes",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -121673,7 +122041,8 @@
         "name:zh": "\u5206\u57df\u78bc\u982d\u8857\u5929\u6a4b",
         "oneway": "yes",
         "ref": "4",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -121712,7 +122081,8 @@
         "name:zh": "\u4e2d\u74b0\u53ca\u7063\u4ed4\u7e5e\u9053\u96a7\u9053",
         "oneway": "yes",
         "ref": "4",
-        "tunnel": "yes"
+        "tunnel": "yes",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -122375,7 +122745,8 @@
         "name:en": "Hillier Street",
         "name:zh": "\u79a7\u5229\u8857",
         "oneway": "yes",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -125104,7 +125475,8 @@
         "highway": "footway",
         "name": "Pinewood Battery Heritage Trail \u677e\u6797\u5ee2\u5821\u6b77\u53f2\u5f91",
         "name:en": "Pinewood Battery Heritage Trail",
-        "name:zh": "\u677e\u6797\u5ee2\u5821\u6b77\u53f2\u5f91"
+        "name:zh": "\u677e\u6797\u5ee2\u5821\u6b77\u53f2\u5f91",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -125160,7 +125532,8 @@
         "name:en": "Pinewood Battery Heritage Trail",
         "name:zh": "\u677e\u6797\u5ee2\u5821\u6b77\u53f2\u5f91",
         "surface": "asphalt",
-        "vehicle": "no"
+        "vehicle": "no",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -125517,7 +125890,8 @@
         "official_name": "\u4e2d\u74b0\u81f3\u534a\u5c71\u81ea\u52d5\u6276\u624b\u96fb\u68af\u7cfb\u7d71 Central-Mid-Levels Escalator and Walkway System",
         "official_name:en": "Central-Mid-Levels Escalator and Walkway System",
         "wikidata": "Q859404",
-        "wikipedia": "en:Central\u2013Mid-Levels escalator and walkway system"
+        "wikipedia": "en:Central\u2013Mid-Levels escalator and walkway system",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -125561,7 +125935,8 @@
         "official_name": "\u4e2d\u74b0\u81f3\u534a\u5c71\u81ea\u52d5\u6276\u624b\u96fb\u68af\u7cfb\u7d71 Central-Mid-Levels Escalator and Walkway System",
         "official_name:en": "Central-Mid-Levels Escalator and Walkway System",
         "wikidata": "Q859404",
-        "wikipedia": "en:Central\u2013Mid-Levels escalator and walkway system"
+        "wikipedia": "en:Central\u2013Mid-Levels escalator and walkway system",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -125593,7 +125968,8 @@
         "highway": "steps",
         "name": "\u4e9b\u5229\u8857 Shelley Street",
         "name:en": "Shelley Street",
-        "name:zh": "\u4e9b\u5229\u8857"
+        "name:zh": "\u4e9b\u5229\u8857",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -126790,7 +127166,8 @@
         "name:en": "Pedder Street",
         "name:zh": "\u7562\u6253\u8857",
         "oneway": "yes",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -126822,7 +127199,8 @@
         "name:en": "Pedder Street",
         "name:zh": "\u7562\u6253\u8857",
         "oneway": "yes",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -128460,7 +128838,8 @@
         "name:zh": "\u4e2d\u74b0\u53ca\u7063\u4ed4\u7e5e\u9053",
         "oneway": "yes",
         "ref": "4",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -128497,7 +128876,8 @@
         "name:zh": "\u4e2d\u74b0\u53ca\u7063\u4ed4\u7e5e\u9053",
         "oneway": "yes",
         "ref": "4",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -128548,7 +128928,8 @@
         "highway": "footway",
         "name": "\u5927\u5b78\u8857 University Street",
         "name:en": "University Street",
-        "name:zh": "\u5927\u5b78\u8857"
+        "name:zh": "\u5927\u5b78\u8857",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -132944,7 +133325,8 @@
         "name:en": "Victoria Road",
         "name:zh": "\u57df\u591a\u5229\u9053",
         "source": "yahoo_imagery",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -133382,7 +133764,8 @@
         "name": "\u4fdd\u5fb7\u8857 Po Tuck Street",
         "name:en": "Po Tuck Street",
         "name:zh": "\u4fdd\u5fb7\u8857",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Chi"
       },
       "geometry": {
         "type": "LineString",
@@ -133908,7 +134291,8 @@
         "parking:left": "parallel",
         "parking:left:fee": "no",
         "surface": "asphalt",
-        "wikidata": "Q22341249"
+        "wikidata": "Q22341249",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -134145,7 +134529,8 @@
         "layer": "1",
         "name": "\u5927\u5b78\u8857 University Street",
         "name:en": "University Street",
-        "name:zh": "\u5927\u5b78\u8857"
+        "name:zh": "\u5927\u5b78\u8857",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
@@ -134291,7 +134676,8 @@
         "name:en": "Victoria Road",
         "name:zh": "\u57df\u591a\u5229\u9053",
         "source": "yahoo_imagery",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -134324,7 +134710,8 @@
         "name:en": "Victoria Road",
         "name:zh": "\u57df\u591a\u5229\u9053",
         "source": "yahoo_imagery",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -134732,7 +135119,8 @@
         "name:en": "Victoria Road",
         "name:zh": "\u57df\u591a\u5229\u9053",
         "source": "yahoo_imagery",
-        "surface": "asphalt"
+        "surface": "asphalt",
+        "language": "Eng"
       },
       "geometry": {
         "type": "LineString",
@@ -136256,7 +136644,8 @@
         "official_name:en": "Central-Mid-Levels Escalator and Walkway System",
         "tourism": "attraction",
         "wikidata": "Q859404",
-        "wikipedia": "en:Central\u2013Mid-Levels escalator and walkway system"
+        "wikipedia": "en:Central\u2013Mid-Levels escalator and walkway system",
+        "language": "Neutral"
       },
       "geometry": {
         "type": "LineString",
