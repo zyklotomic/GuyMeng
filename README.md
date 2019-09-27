@@ -2,6 +2,7 @@
 
 I pulled GeoJson data on the street geometries of Hong Kong from OpenStreetMaps. Then, I used a Python script that
 I wrote to manually enter in metadata for each street regarding whether the language was English, Chinese, or Neutral.
+Mapbox does the rest of the heavy lifting by assiging colors to the streets based on the language.
 
 #### What does it mean for a street to be English? Chinese? Neutral?
 Every street has both an English and a Cantonese name. Sometimes, the street name would be a transliteration of the street name in the other language.
@@ -13,13 +14,17 @@ are direct translations of each other.
 [The Full Map](https://api.mapbox.com/styles/v1/zyklotomic/ck0c21yjo4bgg1cm5yqv96aup.html?fresh=true&title=true&access_token=pk.eyJ1IjoienlrbG90b21pYyIsImEiOiJjanhqNTNodWIweGR5M29xbjZwbmswZHZjIn0.Eiul4956qjF8AYXdJL9qlg#13.4/22.290252/114.149604/0)
 
 ### Future Goals
-Learn R to do more cool stuff with OpenStreetMaps data. Desire to learn R partly inspired by [this](https://erdavis.com/2019/09/20/the-beautiful-hidden-logic-of-cities-worldwide/).
+Learn R to do more cool stuff with OpenStreetMaps data as well as so that I do not have to depend on
+a trial service to Mapbox.
+Desire to learn R partly inspired by [this](https://erdavis.com/2019/09/20/the-beautiful-hidden-logic-of-cities-worldwide/).
 
 ### Errors
-All the language data has been manually entered by hand. If there are any errors, PR's are welcome.
+All the language data has been manually entered by hand. If there are any errors, PR's are welcome or you could shoot me an
+email at chocopouff298 \[at\] gmail. Thanks!
 
 ### Contributing
-Since this was all entered manually, I have not completely finished geocoding the entirety of HK. If you would like to help out, here's how.
+Since this was all entered manually, I have not completely finished geocoding the entirety of HK. If you would like to help out,
+I would be very grateful.
 
 Export a section of GeoJSON data from OpenStreetMaps at https://overpass-turbo.eu/. Run `python street_analysis.py geojson_file`.
 To break and save in the middle, enter `break`
