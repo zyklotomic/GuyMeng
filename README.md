@@ -10,7 +10,7 @@ Every street has both an English and a Cantonese name. Sometimes, the street nam
 For example, `Hennessy Road` is `軒尼詩道` (pronounced Hey Ney See Dou\[road\]) in Cantonese. I would classify this street as
 English. On the other hand, `龍和路 Lung Wo Road`, is designated as Chinese. `博覽道 Expo Drive` is Neutral since the street names
 are direct translations of each other.  
-## [The Map](https://api.mapbox.com/styles/v1/zyklotomic/ck0c21yjo4bgg1cm5yqv96aup.html?fresh=true&title=true&access_token=pk.eyJ1IjoienlrbG90b21pYyIsImEiOiJjanhqNTNodWIweGR5M29xbjZwbmswZHZjIn0.Eiul4956qjF8AYXdJL9qlg#13.4/22.290252/114.149604/0)
+## [Link to The Map](https://api.mapbox.com/styles/v1/zyklotomic/ck0c21yjo4bgg1cm5yqv96aup.html?fresh=true&title=true&access_token=pk.eyJ1IjoienlrbG90b21pYyIsImEiOiJjanhqNTNodWIweGR5M29xbjZwbmswZHZjIn0.Eiul4956qjF8AYXdJL9qlg#13.4/22.290252/114.149604/0)
 
 ### Future Goals
 Learn R to do more cool stuff with OpenStreetMaps data as well as so that I do not have to depend on
